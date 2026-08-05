@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -38,11 +39,29 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background-2
+    uniqueID: 2338999753
+    locked: 0
+  - name: Background-1
+    uniqueID: 4285678889
+    locked: 0
+  - name: NpcBack
+    uniqueID: 1622142469
+    locked: 0
   - name: Background
     uniqueID: 596823231
     locked: 0
   - name: Ground
     uniqueID: 1379488757
+    locked: 0
+  - name: NpcFront
+    uniqueID: 3916817723
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1831899741
     locked: 0
   - name: Chest
     uniqueID: 551191945
@@ -50,11 +69,8 @@ TagManager:
   - name: Enemy
     uniqueID: 3500169307
     locked: 0
-  - name: Player
-    uniqueID: 1831899741
-    locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: UI
+    uniqueID: 2290526799
     locked: 0
   m_RenderingLayers:
   - Default
