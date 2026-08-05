@@ -4,8 +4,9 @@ public class QuestManager : MonoBehaviour
 {
     public static QuestManager Instance;
 
-    public int currentFlower = 0;
+    [SerializeField] private QuestUI questUI;
 
+    public int currentFlower = 0;
     public int targetFlower = 20;
 
     private void Awake()
@@ -13,11 +14,16 @@ public class QuestManager : MonoBehaviour
         Instance = this;
     }
 
+    private void Start()
+    {
+        questUI.UpdateProgress(currentFlower, targetFlower);
+    }
+
     public void CollectFlower()
     {
         currentFlower++;
 
-        Debug.Log(currentFlower + "/" + targetFlower);
+        questUI.UpdateProgress(currentFlower, targetFlower);
 
         if(currentFlower >= targetFlower)
         {
