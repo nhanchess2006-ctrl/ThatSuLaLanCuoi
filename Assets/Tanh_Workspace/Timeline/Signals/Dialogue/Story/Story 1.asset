@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39288e01ea0bd25409f99304100dbd65, type: 3}
+  m_Name: Story 1
+  m_EditorClassIdentifier: 
+  characterAvatar: {fileID: 0}
+  combinedLines: "PH\xEDa sau c\xF3 H\xECnh b\xF3ng ng\u01B0\u1EDDi \u0111\xE0n \xF4ng
+    \u0111ang ch\u0103m ch\xFA nH\xECn c\u1EADu b\xE9 t\u1EEB \u0111\u1EA7u \u0111\u1EBFn
+    cu\u1ED1i, trong th\u1EBF gi\u1EDBi hoan t\xE0n nh\u1EEFng x\xE1c ch\u1EBFt ch\u1EA5t
+    th\xE0nh \u0111\xF3ng kh\xF4ng ai ng\xF3 ng\xE0n, trong m\u1EAFt ng\u01B0\u1EDDi
+    \u0111\xE0n \xF4ng s\u1EF1 hi\u1EC7n di\u1EC7n c\u1EE7a c\xF4 b\xE9 nh\u01B0
+    m\u1ED9t tia \u1EA5m nh\u1ECF b\xE9 len l\u1ED7i gi\u1EEFa m\u1ED9t th\u1EDBi
+    gi\u1EDBi \u0111\u1EABm m\xE1u.|Trong v\xF4 th\u1EE9c ng\u01B0\u1EDDi \u0111\xE0n
+    \xF4ng \u0111\xE3 ti\u1EBFn l\u1EA1i s\xE1t c\xF4 b\xE9."

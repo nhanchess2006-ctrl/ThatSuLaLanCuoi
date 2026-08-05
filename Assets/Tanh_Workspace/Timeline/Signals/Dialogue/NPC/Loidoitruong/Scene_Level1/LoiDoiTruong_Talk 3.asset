@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39288e01ea0bd25409f99304100dbd65, type: 3}
+  m_Name: LoiDoiTruong_Talk 3
+  m_EditorClassIdentifier: 
+  characterName: "L\xF4i Tu\u1EA5n"
+  characterAvatar: {fileID: 4723107735738678597, guid: 6ca7701dd33647344a233657ae4c8424, type: 3}
+  combinedLines: "\u201C\u0110\u1EEBng khinh th\u01B0\u1EDDng n\xF3, hoa thi\xEAn
+    th\u1EA3o n\u1EB1m s\xE2u trong r\u1EEBng c\u1EA5m, g\u1EA7n h\u1ED3, xung quanh
+    n\xF3 th\u01B0\u1EDDng l\xE0 nh\u1EEFng \u0111\xE0n qu\xE1i canh gi\u1EEF r\u1EA5t
+    nghi\xEAm ng\u1EB7t.\u201D "
