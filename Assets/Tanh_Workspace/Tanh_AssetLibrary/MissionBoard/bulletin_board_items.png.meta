@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: e870d2785379f0e41805fbd6dc392c81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8966998317195018000
+    second: bulletin_board_items_0
+  - first:
+      213: 1377014393794824864
+    second: bulletin_board_items_1
+  - first:
+      213: -5280130943957144021
+    second: bulletin_board_items_2
+  - first:
+      213: 4975354185843749857
+    second: bulletin_board_items_3
+  - first:
+      213: 8020754728289744912
+    second: bulletin_board_items_4
+  - first:
+      213: -619593624254235280
+    second: bulletin_board_items_5
+  - first:
+      213: -7065057752277886744
+    second: bulletin_board_items_6
+  - first:
+      213: 1115199410815808730
+    second: bulletin_board_items_7
+  - first:
+      213: 7981498414691548727
+    second: bulletin_board_items_8
+  - first:
+      213: -4338897465122559304
+    second: bulletin_board_items_9
+  - first:
+      213: -3461684769046794867
+    second: bulletin_board_items_10
+  - first:
+      213: -4186773505296652758
+    second: bulletin_board_items_11
+  - first:
+      213: 2684109337091235353
+    second: bulletin_board_items_12
+  - first:
+      213: 8519027425178988976
+    second: bulletin_board_items_13
+  - first:
+      213: 6604534256602817652
+    second: bulletin_board_items_14
+  - first:
+      213: -3118063419635245159
+    second: bulletin_board_items_15
+  - first:
+      213: -2261443717461285854
+    second: bulletin_board_items_16
+  - first:
+      213: 2231642610750121174
+    second: bulletin_board_items_17
+  - first:
+      213: 5416781995568975018
+    second: bulletin_board_items_18
+  - first:
+      213: -5418280488321249285
+    second: bulletin_board_items_19
+  - first:
+      213: -2005312323019606058
+    second: bulletin_board_items_20
+  - first:
+      213: -5504407694298111340
+    second: bulletin_board_items_21
+  - first:
+      213: -3056069101878908457
+    second: bulletin_board_items_22
+  - first:
+      213: 3980460845547148737
+    second: bulletin_board_items_23
+  - first:
+      213: 1125293441749383208
+    second: bulletin_board_items_24
+  - first:
+      213: 8766318710740420576
+    second: bulletin_board_items_25
+  - first:
+      213: -2073968240112445944
+    second: bulletin_board_items_26
+  - first:
+      213: -3413556463533886911
+    second: bulletin_board_items_27
+  - first:
+      213: -619614170260806626
+    second: bulletin_board_items_28
+  - first:
+      213: 4569468699374553540
+    second: bulletin_board_items_29
+  - first:
+      213: 4207238252748073648
+    second: bulletin_board_items_30
+  - first:
+      213: -8693582205822438405
+    second: bulletin_board_items_31
+  - first:
+      213: -4528816632074257485
+    second: bulletin_board_items_32
+  - first:
+      213: -8262972456866704734
+    second: bulletin_board_items_33
+  - first:
+      213: 6849847393429236715
+    second: bulletin_board_items_34
+  - first:
+      213: -9167379861653287926
+    second: bulletin_board_items_35
+  - first:
+      213: -8078091398095824936
+    second: bulletin_board_items_36
+  - first:
+      213: -4573198716991735798
+    second: bulletin_board_items_37
+  - first:
+      213: 8636576553324915267
+    second: bulletin_board_items_38
+  - first:
+      213: 1186182376711614982
+    second: bulletin_board_items_39
+  - first:
+      213: -626010359356068979
+    second: bulletin_board_items_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bulletin_board_items_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f3fe5d57d217c70800000000000000
+      internalID: 8966998317195018000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8db0ab432c1310800000000000000
+      internalID: 1377014393794824864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ee2edb1e439b6b0800000000000000
+      internalID: -5280130943957144021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e338fe75420c0540800000000000000
+      internalID: 4975354185843749857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018be3afde17f4f60800000000000000
+      internalID: 8020754728289744912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 103
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dba39a1e2c667f0800000000000000
+      internalID: -619593624254235280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e85bd5186fd3fd90800000000000000
+      internalID: -7065057752277886744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b66f94fbf97f00800000000000000
+      internalID: 1115199410815808730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e7807358af3ce60800000000000000
+      internalID: 7981498414691548727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 78
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bae6827eb329c3c0800000000000000
+      internalID: -4338897465122559304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8de5981b00a5ffc0800000000000000
+      internalID: -3461684769046794867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a6cdeda795e5c0800000000000000
+      internalID: -4186773505296652758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 74
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed1a7983fdf3520800000000000000
+      internalID: 2684109337091235353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ba95be4aa93670800000000000000
+      internalID: 8519027425178988976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a5bff9e408ab50800000000000000
+      internalID: 6604534256602817652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 53
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f508d07d96ab4d0800000000000000
+      internalID: -3118063419635245159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2246e2dabecbd90e0800000000000000
+      internalID: -2261443717461285854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4e267712368fe10800000000000000
+      internalID: 2231642610750121174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacce9f86864c2b40800000000000000
+      internalID: 5416781995568975018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 43
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff8e286a966ec4b0800000000000000
+      internalID: -5418280488321249285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f3ba1113bb24e0800000000000000
+      internalID: -2005312323019606058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4922f6a9d5a6c93b0800000000000000
+      internalID: -5504407694298111340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e575f759a695d0800000000000000
+      internalID: -3056069101878908457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c55035bc007d3730800000000000000
+      internalID: 3980460845547148737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8287c875c68dd9f00800000000000000
+      internalID: 1125293441749383208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70b85eb6838a970800000000000000
+      internalID: 8766318710740420576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d7acbfd8c733e0800000000000000
+      internalID: -2073968240112445944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f2527b7c90a0d0800000000000000
+      internalID: -3413556463533886911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 33
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e146ecbe130b667f0800000000000000
+      internalID: -619614170260806626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c98c7e62930a6f30800000000000000
+      internalID: 4569468699374553540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baeb7466ec136a30800000000000000
+      internalID: 4207238252748073648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3fb4c5b013a5780800000000000000
+      internalID: -8693582205822438405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 13
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb355094496621c0800000000000000
+      internalID: -4528816632074257485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a29f9f5456045d80800000000000000
+      internalID: -8262972456866704734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb2cfa89eb8f0f50800000000000000
+      internalID: 6849847393429236715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c0611369ce6c080800000000000000
+      internalID: -9167379861653287926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71c594caad4ef80800000000000000
+      internalID: -8078091398095824936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087f6a2ffbb880c0800000000000000
+      internalID: -4573198716991735798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a2660ed984bd770800000000000000
+      internalID: 8636576553324915267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60279b2469a267010800000000000000
+      internalID: 1186182376711614982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin_board_items_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bedd815e6ff47f0800000000000000
+      internalID: -626010359356068979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1e3b0a8fc631cf44af19c7c295293c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bulletin_board_items_0: 8966998317195018000
+      bulletin_board_items_1: 1377014393794824864
+      bulletin_board_items_10: -3461684769046794867
+      bulletin_board_items_11: -4186773505296652758
+      bulletin_board_items_12: 2684109337091235353
+      bulletin_board_items_13: 8519027425178988976
+      bulletin_board_items_14: 6604534256602817652
+      bulletin_board_items_15: -3118063419635245159
+      bulletin_board_items_16: -2261443717461285854
+      bulletin_board_items_17: 2231642610750121174
+      bulletin_board_items_18: 5416781995568975018
+      bulletin_board_items_19: -5418280488321249285
+      bulletin_board_items_2: -5280130943957144021
+      bulletin_board_items_20: -2005312323019606058
+      bulletin_board_items_21: -5504407694298111340
+      bulletin_board_items_22: -3056069101878908457
+      bulletin_board_items_23: 3980460845547148737
+      bulletin_board_items_24: 1125293441749383208
+      bulletin_board_items_25: 8766318710740420576
+      bulletin_board_items_26: -2073968240112445944
+      bulletin_board_items_27: -3413556463533886911
+      bulletin_board_items_28: -619614170260806626
+      bulletin_board_items_29: 4569468699374553540
+      bulletin_board_items_3: 4975354185843749857
+      bulletin_board_items_30: 4207238252748073648
+      bulletin_board_items_31: -8693582205822438405
+      bulletin_board_items_32: -4528816632074257485
+      bulletin_board_items_33: -8262972456866704734
+      bulletin_board_items_34: 6849847393429236715
+      bulletin_board_items_35: -9167379861653287926
+      bulletin_board_items_36: -8078091398095824936
+      bulletin_board_items_37: -4573198716991735798
+      bulletin_board_items_38: 8636576553324915267
+      bulletin_board_items_39: 1186182376711614982
+      bulletin_board_items_4: 8020754728289744912
+      bulletin_board_items_40: -626010359356068979
+      bulletin_board_items_5: -619593624254235280
+      bulletin_board_items_6: -7065057752277886744
+      bulletin_board_items_7: 1115199410815808730
+      bulletin_board_items_8: 7981498414691548727
+      bulletin_board_items_9: -4338897465122559304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

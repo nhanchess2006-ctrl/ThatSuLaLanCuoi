@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Tanh_Workspace/Timeline/Playables/CutScene.playable.meta
+<<<<<<<< HEAD:Assets/Tanh_Workspace/Timeline/Playables/CutScene.playable.meta
+guid: aa8b9f85f43aa5c4b9f7613015213bb9
+========
+guid: 53202fea4f3bc0a40829e9c2d34d4477
+>>>>>>>> 0afa7b052637f7918e9d1b0ed6e9c4117ef01d42:Assets/Data/Item Data/List of items - Merchant's Item List.asset.meta
+=======
+guid: 264d13702f88acb42b43c791c52a5b28
+>>>>>>> parent of a724c33 (feat: Scene 1):Assets/Tanh_Workspace/Timeline/CutScene.playable.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

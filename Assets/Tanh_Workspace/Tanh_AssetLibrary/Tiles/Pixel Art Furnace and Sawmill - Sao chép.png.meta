@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 270593748a2983148a712f94ca7af30c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7491957248058595663
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_0"
+  - first:
+      213: -4038149416762943878
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_1"
+  - first:
+      213: -2480575260623031878
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_2"
+  - first:
+      213: 6547618413047704526
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_3"
+  - first:
+      213: -8278726406802414689
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_4"
+  - first:
+      213: 3868151776715119467
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_5"
+  - first:
+      213: -3897074705174093412
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_6"
+  - first:
+      213: 3987349063465214270
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_7"
+  - first:
+      213: -4254857894115906775
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_8"
+  - first:
+      213: 5867543254860250082
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_9"
+  - first:
+      213: -6855583070103044189
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_10"
+  - first:
+      213: 2581675445631475290
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_11"
+  - first:
+      213: 1513172579131684106
+    second: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_0"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4912fa4c67c8f760800000000000000
+      internalID: 7491957248058595663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_1"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 63
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d4ef108c95f7c0800000000000000
+      internalID: -4038149416762943878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_2"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab131ff61f9339dd0800000000000000
+      internalID: -2480575260623031878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_3"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 63
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe3828140ddda50800000000000000
+      internalID: 6547618413047704526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_4"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9365e1123e0c1d80800000000000000
+      internalID: -8278726406802414689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_5"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b966ceb8f6ea530800000000000000
+      internalID: 3868151776715119467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_6"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 63
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9120f6043fcae9c0800000000000000
+      internalID: -3897074705174093412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_7"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31a45be8d8e55730800000000000000
+      internalID: 3987349063465214270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_8"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b647bd945b3f4c0800000000000000
+      internalID: -4254857894115906775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_9"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb3f22b083bd6150800000000000000
+      internalID: 5867543254860250082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_10"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af735a25831cd0a0800000000000000
+      internalID: -6855583070103044189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_11"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5636b324f3d320800000000000000
+      internalID: 2581675445631475290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pixel Art Furnace and Sawmill - Sao ch\xE9p_12"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05710f817edff410800000000000000
+      internalID: 1513172579131684106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_0": 7491957248058595663
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_1": -4038149416762943878
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_10": -6855583070103044189
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_11": 2581675445631475290
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_12": 1513172579131684106
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_2": -2480575260623031878
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_3": 6547618413047704526
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_4": -8278726406802414689
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_5": 3868151776715119467
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_6": -3897074705174093412
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_7": 3987349063465214270
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_8": -4254857894115906775
+      "Pixel Art Furnace and Sawmill - Sao ch\xE9p_9": 5867543254860250082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
