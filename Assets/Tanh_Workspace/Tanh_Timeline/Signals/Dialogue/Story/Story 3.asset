@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39288e01ea0bd25409f99304100dbd65, type: 3}
+  m_Name: Story 3
+  m_EditorClassIdentifier: 
+  characterName: 
+  characterAvatar: {fileID: 0}
+  combinedLines: "Sau khi ch\u1EE9ng minh \u0111\u01B0\u1EE3c n\u0103ng l\u1EF1c
+    c\u1EE7a m\xECnh, M\u1EB7c Uy\xEAn c\xF9ng v\u1EC1 nh\xE0 c\u1EE7a L\xF4i \u0111\u1ED9i
+    tr\u01B0\u1EDFng.| Kho\u1EA3n th\u1EDDi gian n\xE0y kh\xE1 y\xEAn \u1ED5n, c\u1EA3
+    2 c\xF9ng tr\u1EA3i qua nh\u1EEFng th\xE1ng ng\xE0y y\xEAn b\xECnh nh\u01B0 m\u1ED9t
+    gia \u0111\xECnh, c\xF9ng nhau th\u1EF1c hi\u1EC7n nh\u1EEFng nhi\u1EC7m v\u1EE5
+    c\u01A1 b\u1EA3n c\u1EE7a \u0111\u1ED9i l\xEDnh \u0111\xE1nh thu\xEA. "

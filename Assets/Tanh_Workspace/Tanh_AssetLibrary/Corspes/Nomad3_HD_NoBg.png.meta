@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: f077ed0c338847c4baad2f272cb7f003
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8539995159919011649
+    second: Nomad3_HD_NoBg_0
+  - first:
+      213: -8241785279471284361
+    second: Nomad3_HD_NoBg_1
+  - first:
+      213: -4603759766157099650
+    second: Nomad3_HD_NoBg_2
+  - first:
+      213: 1948453360676808785
+    second: Nomad3_HD_NoBg_3
+  - first:
+      213: -6850789371458966544
+    second: Nomad3_HD_NoBg_4
+  - first:
+      213: 8250573631628392705
+    second: Nomad3_HD_NoBg_5
+  - first:
+      213: 7082345032663603268
+    second: Nomad3_HD_NoBg_6
+  - first:
+      213: -19571894606380204
+    second: Nomad3_HD_NoBg_7
+  - first:
+      213: -3868057112356142561
+    second: Nomad3_HD_NoBg_8
+  - first:
+      213: -4000313143268382187
+    second: Nomad3_HD_NoBg_9
+  - first:
+      213: 6939631432205820106
+    second: Nomad3_HD_NoBg_10
+  - first:
+      213: -3144988005489584722
+    second: Nomad3_HD_NoBg_11
+  - first:
+      213: -453839495640629611
+    second: Nomad3_HD_NoBg_12
+  - first:
+      213: -6399479951928086282
+    second: Nomad3_HD_NoBg_13
+  - first:
+      213: 7894412762888896738
+    second: Nomad3_HD_NoBg_14
+  - first:
+      213: 2521905112330126181
+    second: Nomad3_HD_NoBg_15
+  - first:
+      213: -4551176497544638969
+    second: Nomad3_HD_NoBg_16
+  - first:
+      213: 3291485474788933716
+    second: Nomad3_HD_NoBg_17
+  - first:
+      213: 318478094172824058
+    second: Nomad3_HD_NoBg_18
+  - first:
+      213: 1960138895468353713
+    second: Nomad3_HD_NoBg_19
+  - first:
+      213: -7168315833626435747
+    second: Nomad3_HD_NoBg_20
+  - first:
+      213: -3904258941274748937
+    second: Nomad3_HD_NoBg_21
+  - first:
+      213: 4435607757406925669
+    second: Nomad3_HD_NoBg_22
+  - first:
+      213: -5860442571216737379
+    second: Nomad3_HD_NoBg_23
+  - first:
+      213: -2922454724259855575
+    second: Nomad3_HD_NoBg_24
+  - first:
+      213: -8863319470085118670
+    second: Nomad3_HD_NoBg_25
+  - first:
+      213: -3636877309800916146
+    second: Nomad3_HD_NoBg_26
+  - first:
+      213: 4440708227483758064
+    second: Nomad3_HD_NoBg_27
+  - first:
+      213: -3138478308594438066
+    second: Nomad3_HD_NoBg_28
+  - first:
+      213: -5166437649192098205
+    second: Nomad3_HD_NoBg_29
+  - first:
+      213: 4351203591906900700
+    second: Nomad3_HD_NoBg_30
+  - first:
+      213: 5071472607729833512
+    second: Nomad3_HD_NoBg_31
+  - first:
+      213: -5181780562575494782
+    second: Nomad3_HD_NoBg_32
+  - first:
+      213: 4247296440955248655
+    second: Nomad3_HD_NoBg_33
+  - first:
+      213: 299463261180009653
+    second: Nomad3_HD_NoBg_34
+  - first:
+      213: -6328687622760106245
+    second: Nomad3_HD_NoBg_35
+  - first:
+      213: -6941626910733444930
+    second: Nomad3_HD_NoBg_36
+  - first:
+      213: -1414279675649338136
+    second: Nomad3_HD_NoBg_37
+  - first:
+      213: 3510275749293693581
+    second: Nomad3_HD_NoBg_38
+  - first:
+      213: -2945371899499208628
+    second: Nomad3_HD_NoBg_39
+  - first:
+      213: 3611324170644490981
+    second: Nomad3_HD_NoBg_40
+  - first:
+      213: 7559160464408771618
+    second: Nomad3_HD_NoBg_41
+  - first:
+      213: -2977498233937647031
+    second: Nomad3_HD_NoBg_42
+  - first:
+      213: -2516380741825640154
+    second: Nomad3_HD_NoBg_43
+  - first:
+      213: -4580143810808332424
+    second: Nomad3_HD_NoBg_44
+  - first:
+      213: -3622616587668169481
+    second: Nomad3_HD_NoBg_45
+  - first:
+      213: 6965896777250819874
+    second: Nomad3_HD_NoBg_46
+  - first:
+      213: -7551487108762713995
+    second: Nomad3_HD_NoBg_47
+  - first:
+      213: -2964138960667266964
+    second: Nomad3_HD_NoBg_48
+  - first:
+      213: -2307046032562468700
+    second: Nomad3_HD_NoBg_49
+  - first:
+      213: -258887944100844904
+    second: Nomad3_HD_NoBg_50
+  - first:
+      213: -2571912322337237526
+    second: Nomad3_HD_NoBg_51
+  - first:
+      213: -6373728196766792461
+    second: Nomad3_HD_NoBg_52
+  - first:
+      213: 8026918641963365278
+    second: Nomad3_HD_NoBg_53
+  - first:
+      213: 2123542878086033950
+    second: Nomad3_HD_NoBg_54
+  - first:
+      213: 1684021653736587362
+    second: Nomad3_HD_NoBg_55
+  - first:
+      213: -8272523673594750780
+    second: Nomad3_HD_NoBg_56
+  - first:
+      213: 5901235240802711318
+    second: Nomad3_HD_NoBg_57
+  - first:
+      213: 1075342844319797274
+    second: Nomad3_HD_NoBg_58
+  - first:
+      213: 6469265325596197980
+    second: Nomad3_HD_NoBg_59
+  - first:
+      213: 4739355721991809039
+    second: Nomad3_HD_NoBg_60
+  - first:
+      213: -2073548141036598229
+    second: Nomad3_HD_NoBg_61
+  - first:
+      213: -5353347248072617813
+    second: Nomad3_HD_NoBg_62
+  - first:
+      213: 1041395426146992585
+    second: Nomad3_HD_NoBg_63
+  - first:
+      213: -3254545476771971059
+    second: Nomad3_HD_NoBg_64
+  - first:
+      213: -5345538601496530060
+    second: Nomad3_HD_NoBg_65
+  - first:
+      213: 3135203167729497886
+    second: Nomad3_HD_NoBg_66
+  - first:
+      213: -3869118000886655661
+    second: Nomad3_HD_NoBg_67
+  - first:
+      213: -911711811316188211
+    second: Nomad3_HD_NoBg_68
+  - first:
+      213: -2436980894819703751
+    second: Nomad3_HD_NoBg_69
+  - first:
+      213: -1999076038726698118
+    second: Nomad3_HD_NoBg_70
+  - first:
+      213: -1092910370106051008
+    second: Nomad3_HD_NoBg_71
+  - first:
+      213: 5069985772171164116
+    second: Nomad3_HD_NoBg_72
+  - first:
+      213: -3129886719792508266
+    second: Nomad3_HD_NoBg_73
+  - first:
+      213: 928763459547709993
+    second: Nomad3_HD_NoBg_74
+  - first:
+      213: -5733422488738572463
+    second: Nomad3_HD_NoBg_75
+  - first:
+      213: 66364245166941006
+    second: Nomad3_HD_NoBg_76
+  - first:
+      213: 7760943544232945977
+    second: Nomad3_HD_NoBg_77
+  - first:
+      213: -781725421900452778
+    second: Nomad3_HD_NoBg_78
+  - first:
+      213: -1069204375014563553
+    second: Nomad3_HD_NoBg_79
+  - first:
+      213: -6323708642168301494
+    second: Nomad3_HD_NoBg_80
+  - first:
+      213: 6669443115689425864
+    second: Nomad3_HD_NoBg_81
+  - first:
+      213: 179509025667456160
+    second: Nomad3_HD_NoBg_82
+  - first:
+      213: 2559764324913304912
+    second: Nomad3_HD_NoBg_83
+  - first:
+      213: -4800284409100506062
+    second: Nomad3_HD_NoBg_84
+  - first:
+      213: -1499093059344701466
+    second: Nomad3_HD_NoBg_85
+  - first:
+      213: -6064642467390402917
+    second: Nomad3_HD_NoBg_86
+  - first:
+      213: -7838725121516076513
+    second: Nomad3_HD_NoBg_87
+  - first:
+      213: 6004097036571309399
+    second: Nomad3_HD_NoBg_88
+  - first:
+      213: 5240238458142192586
+    second: Nomad3_HD_NoBg_89
+  - first:
+      213: -6880637383654945126
+    second: Nomad3_HD_NoBg_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1599
+        width: 87
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d87d16a7db7980800000000000000
+      internalID: -8539995159919011649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1599
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f021684fb4f9d80800000000000000
+      internalID: -8241785279471284361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1599
+        width: 94
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d78fa62e82c10c0800000000000000
+      internalID: -4603759766157099650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1599
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158ae88120c4a0b10800000000000000
+      internalID: 1948453360676808785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_4
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1599
+        width: 97
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbaa2b1d5b1de0a0800000000000000
+      internalID: -6850789371458966544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_5
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1599
+        width: 102
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1093a6a210def7270800000000000000
+      internalID: 8250573631628392705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_6
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1599
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4489aa8884b894260800000000000000
+      internalID: 7082345032663603268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_7
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1599
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453c76e27777abff0800000000000000
+      internalID: -19571894606380204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_8
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1599
+        width: 94
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12c617dc86e15ac0800000000000000
+      internalID: -3868057112356142561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_9
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1599
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a692904680c78c0800000000000000
+      internalID: -4000313143268382187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1279
+        width: 147
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac063c415068e4060800000000000000
+      internalID: 6939631432205820106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1279
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5dde56212ca54d0800000000000000
+      internalID: -3144988005489584722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1284
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3c4d1263a3b9f0800000000000000
+      internalID: -453839495640629611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1279
+        width: 173
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0b71eb3ea7037a0800000000000000
+      internalID: -6399479951928086282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_14
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1279
+        width: 128
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e08d4ad4969e8d60800000000000000
+      internalID: 7894412762888896738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_15
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1279
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563cda9865b9ff220800000000000000
+      internalID: 2521905112330126181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_16
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1284
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eceb1b619f6d0c0800000000000000
+      internalID: -4551176497544638969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_17
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1279
+        width: 173
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450072ca994bdad20800000000000000
+      internalID: 3291485474788933716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_18
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 969
+        width: 244
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af12ae7a3267b6400800000000000000
+      internalID: 318478094172824058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1179
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b851dea0ffc33b10800000000000000
+      internalID: 1960138895468353713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_20
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1189
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f53ea8ab6058c90800000000000000
+      internalID: -7168315833626435747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_21
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1024
+        width: 163
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f70d26bd2941d9c0800000000000000
+      internalID: -3904258941274748937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_22
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 958
+        width: 302
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f43721c17e8d30800000000000000
+      internalID: 4435607757406925669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_23
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 958
+        width: 272
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bac0c08868baea0800000000000000
+      internalID: -5860442571216737379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_24
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 984
+        width: 167
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923445089ea5177d0800000000000000
+      internalID: -2922454724259855575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_25
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235e5ced6e92ff480800000000000000
+      internalID: -8863319470085118670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_26
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1153
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b53a11b57378dc0800000000000000
+      internalID: -3636877309800916146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_27
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1138
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde252ea9090ad30800000000000000
+      internalID: 4440708227483758064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_28
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1134
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b5f05b92e174d0800000000000000
+      internalID: -3138478308594438066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_29
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1129
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36663bdb4502d48b0800000000000000
+      internalID: -5166437649192098205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_30
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 958
+        width: 113
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdab309fc94926c30800000000000000
+      internalID: 4351203591906900700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_31
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 958
+        width: 94
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8265cd7877d716640800000000000000
+      internalID: 5071472607729833512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_32
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1119
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f9a7580e9618b0800000000000000
+      internalID: -5181780562575494782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_33
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1108
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f002be22c9d61fa30800000000000000
+      internalID: 4247296440955248655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_34
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1104
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc1ae9df38e72400800000000000000
+      internalID: 299463261180009653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 958
+        width: 152
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f8fe432cfb28a0800000000000000
+      internalID: -6328687622760106245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_36
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1099
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d07e5a136aaf90800000000000000
+      internalID: -6941626910733444930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_37
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1078
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4dddfc0287f5ce0800000000000000
+      internalID: -1414279675649338136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_38
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 958
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a915c123107b030800000000000000
+      internalID: 3510275749293693581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 958
+        width: 182
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40aee6dcdfef17d0800000000000000
+      internalID: -2945371899499208628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_40
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1084
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea0c0813300e1230800000000000000
+      internalID: 3611324170644490981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_41
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1069
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf249646887e860800000000000000
+      internalID: 7559160464408771618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_42
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 958
+        width: 272
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2bc6b12dcda6d0800000000000000
+      internalID: -2977498233937647031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_43
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1048
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62949d33c05041dd0800000000000000
+      internalID: -2516380741825640154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_44
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 1014
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fb090887f0070c0800000000000000
+      internalID: -4580143810808332424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_45
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 1014
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcd99e2861e9bdc0800000000000000
+      internalID: -3622616587668169481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_46
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1018
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fc2164636dba060800000000000000
+      internalID: 6965896777250819874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_47
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 883
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c14ceb7ab33790800000000000000
+      internalID: -7551487108762713995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_48
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 889
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c603888e1534dd6d0800000000000000
+      internalID: -2964138960667266964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_49
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 889
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c3ac4bd9bbffd0800000000000000
+      internalID: -2307046032562468700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_50
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 694
+        width: 217
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aec3759ce386cf0800000000000000
+      internalID: -258887944100844904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_51
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 879
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae593a19e5bbe4cd0800000000000000
+      internalID: -2571912322337237526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_52
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 649
+        width: 244
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f403d879f7fb87a0800000000000000
+      internalID: -6373728196766792461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_53
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 673
+        width: 257
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93ff27f9f7556f60800000000000000
+      internalID: 8026918641963365278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_54
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 859
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f0a12ff6587d10800000000000000
+      internalID: 2123542878086033950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_55
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 639
+        width: 233
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260090195c8de5710800000000000000
+      internalID: 1684021653736587362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_56
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 829
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8106f6c87123d80800000000000000
+      internalID: -8272523673594750780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_57
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 694
+        width: 262
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ff087f2665e150800000000000000
+      internalID: 5901235240802711318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_58
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 834
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1090779e926cee00800000000000000
+      internalID: 1075342844319797274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_59
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 819
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c9e9b98277c950800000000000000
+      internalID: 6469265325596197980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_60
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 769
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0869814be295c140800000000000000
+      internalID: 4739355721991809039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_61
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 639
+        width: 272
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c87dca3f64933e0800000000000000
+      internalID: -2073548141036598229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_62
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 639
+        width: 178
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba011578a0715b5b0800000000000000
+      internalID: -5353347248072617813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_63
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 639
+        width: 147
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1453e5f97c37e00800000000000000
+      internalID: 1041395426146992585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_64
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 639
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0007a7d12885d2d0800000000000000
+      internalID: -3254545476771971059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 639
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47339acb6f4d0d5b0800000000000000
+      internalID: -5345538601496530060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_66
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 639
+        width: 197
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1732378baa728b20800000000000000
+      internalID: 3135203167729497886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_67
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 778
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355d41b7da12e4ac0800000000000000
+      internalID: -3869118000886655661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_68
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 639
+        width: 182
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb78f420f2f853f0800000000000000
+      internalID: -911711811316188211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_69
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 759
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934abdfa9ca1e2ed0800000000000000
+      internalID: -2436980894819703751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_70
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 769
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b33b03fead144e0800000000000000
+      internalID: -1999076038726698118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_71
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 754
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046fc721fc335d0f0800000000000000
+      internalID: -1092910370106051008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_72
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9fb86a2353c5640800000000000000
+      internalID: 5069985772171164116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_73
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 729
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6921e877c986094d0800000000000000
+      internalID: -3129886719792508266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_74
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92244b61271a3ec00800000000000000
+      internalID: 928763459547709993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_75
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 714
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157508b9f9ace60b0800000000000000
+      internalID: -5733422488738572463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_76
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 699
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4366faede5cbe000800000000000000
+      internalID: 66364245166941006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_77
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 694
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939add3c80964bb60800000000000000
+      internalID: 7760943544232945977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 324
+        width: 139
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2bbbded0c625f0800000000000000
+      internalID: -781725421900452778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 334
+        width: 143
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11a6fa294c6921f0800000000000000
+      internalID: -1069204375014563553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_80
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 354
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489d709e7cad38a0800000000000000
+      internalID: -6323708642168301494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_81
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 354
+        width: 127
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb7507d2f9e8c50800000000000000
+      internalID: 6669443115689425864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_82
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 349
+        width: 128
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac92ecf18ebd7200800000000000000
+      internalID: 179509025667456160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 139
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055dc2f571c168320800000000000000
+      internalID: 2559764324913304912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ce7be43c6f16db0800000000000000
+      internalID: -4800284409100506062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_85
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 0
+        width: 167
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e761881ec6223be0800000000000000
+      internalID: -1499093059344701466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_86
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e4279cecf06dba0800000000000000
+      internalID: -6064642467390402917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_87
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 158
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f128a188801473390800000000000000
+      internalID: -7838725121516076513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_88
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 0
+        width: 163
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755fec59176d25350800000000000000
+      internalID: 6004097036571309399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_89
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 0
+        width: 193
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3f7eb1d1119b840800000000000000
+      internalID: 5240238458142192586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomad3_HD_NoBg_90
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 188
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e49f631c01380a0800000000000000
+      internalID: -6880637383654945126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ab10e204c719904e88a075fd83b57e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nomad3_HD_NoBg_0: -8539995159919011649
+      Nomad3_HD_NoBg_1: -8241785279471284361
+      Nomad3_HD_NoBg_10: 6939631432205820106
+      Nomad3_HD_NoBg_11: -3144988005489584722
+      Nomad3_HD_NoBg_12: -453839495640629611
+      Nomad3_HD_NoBg_13: -6399479951928086282
+      Nomad3_HD_NoBg_14: 7894412762888896738
+      Nomad3_HD_NoBg_15: 2521905112330126181
+      Nomad3_HD_NoBg_16: -4551176497544638969
+      Nomad3_HD_NoBg_17: 3291485474788933716
+      Nomad3_HD_NoBg_18: 318478094172824058
+      Nomad3_HD_NoBg_19: 1960138895468353713
+      Nomad3_HD_NoBg_2: -4603759766157099650
+      Nomad3_HD_NoBg_20: -7168315833626435747
+      Nomad3_HD_NoBg_21: -3904258941274748937
+      Nomad3_HD_NoBg_22: 4435607757406925669
+      Nomad3_HD_NoBg_23: -5860442571216737379
+      Nomad3_HD_NoBg_24: -2922454724259855575
+      Nomad3_HD_NoBg_25: -8863319470085118670
+      Nomad3_HD_NoBg_26: -3636877309800916146
+      Nomad3_HD_NoBg_27: 4440708227483758064
+      Nomad3_HD_NoBg_28: -3138478308594438066
+      Nomad3_HD_NoBg_29: -5166437649192098205
+      Nomad3_HD_NoBg_3: 1948453360676808785
+      Nomad3_HD_NoBg_30: 4351203591906900700
+      Nomad3_HD_NoBg_31: 5071472607729833512
+      Nomad3_HD_NoBg_32: -5181780562575494782
+      Nomad3_HD_NoBg_33: 4247296440955248655
+      Nomad3_HD_NoBg_34: 299463261180009653
+      Nomad3_HD_NoBg_35: -6328687622760106245
+      Nomad3_HD_NoBg_36: -6941626910733444930
+      Nomad3_HD_NoBg_37: -1414279675649338136
+      Nomad3_HD_NoBg_38: 3510275749293693581
+      Nomad3_HD_NoBg_39: -2945371899499208628
+      Nomad3_HD_NoBg_4: -6850789371458966544
+      Nomad3_HD_NoBg_40: 3611324170644490981
+      Nomad3_HD_NoBg_41: 7559160464408771618
+      Nomad3_HD_NoBg_42: -2977498233937647031
+      Nomad3_HD_NoBg_43: -2516380741825640154
+      Nomad3_HD_NoBg_44: -4580143810808332424
+      Nomad3_HD_NoBg_45: -3622616587668169481
+      Nomad3_HD_NoBg_46: 6965896777250819874
+      Nomad3_HD_NoBg_47: -7551487108762713995
+      Nomad3_HD_NoBg_48: -2964138960667266964
+      Nomad3_HD_NoBg_49: -2307046032562468700
+      Nomad3_HD_NoBg_5: 8250573631628392705
+      Nomad3_HD_NoBg_50: -258887944100844904
+      Nomad3_HD_NoBg_51: -2571912322337237526
+      Nomad3_HD_NoBg_52: -6373728196766792461
+      Nomad3_HD_NoBg_53: 8026918641963365278
+      Nomad3_HD_NoBg_54: 2123542878086033950
+      Nomad3_HD_NoBg_55: 1684021653736587362
+      Nomad3_HD_NoBg_56: -8272523673594750780
+      Nomad3_HD_NoBg_57: 5901235240802711318
+      Nomad3_HD_NoBg_58: 1075342844319797274
+      Nomad3_HD_NoBg_59: 6469265325596197980
+      Nomad3_HD_NoBg_6: 7082345032663603268
+      Nomad3_HD_NoBg_60: 4739355721991809039
+      Nomad3_HD_NoBg_61: -2073548141036598229
+      Nomad3_HD_NoBg_62: -5353347248072617813
+      Nomad3_HD_NoBg_63: 1041395426146992585
+      Nomad3_HD_NoBg_64: -3254545476771971059
+      Nomad3_HD_NoBg_65: -5345538601496530060
+      Nomad3_HD_NoBg_66: 3135203167729497886
+      Nomad3_HD_NoBg_67: -3869118000886655661
+      Nomad3_HD_NoBg_68: -911711811316188211
+      Nomad3_HD_NoBg_69: -2436980894819703751
+      Nomad3_HD_NoBg_7: -19571894606380204
+      Nomad3_HD_NoBg_70: -1999076038726698118
+      Nomad3_HD_NoBg_71: -1092910370106051008
+      Nomad3_HD_NoBg_72: 5069985772171164116
+      Nomad3_HD_NoBg_73: -3129886719792508266
+      Nomad3_HD_NoBg_74: 928763459547709993
+      Nomad3_HD_NoBg_75: -5733422488738572463
+      Nomad3_HD_NoBg_76: 66364245166941006
+      Nomad3_HD_NoBg_77: 7760943544232945977
+      Nomad3_HD_NoBg_78: -781725421900452778
+      Nomad3_HD_NoBg_79: -1069204375014563553
+      Nomad3_HD_NoBg_8: -3868057112356142561
+      Nomad3_HD_NoBg_80: -6323708642168301494
+      Nomad3_HD_NoBg_81: 6669443115689425864
+      Nomad3_HD_NoBg_82: 179509025667456160
+      Nomad3_HD_NoBg_83: 2559764324913304912
+      Nomad3_HD_NoBg_84: -4800284409100506062
+      Nomad3_HD_NoBg_85: -1499093059344701466
+      Nomad3_HD_NoBg_86: -6064642467390402917
+      Nomad3_HD_NoBg_87: -7838725121516076513
+      Nomad3_HD_NoBg_88: 6004097036571309399
+      Nomad3_HD_NoBg_89: 5240238458142192586
+      Nomad3_HD_NoBg_9: -4000313143268382187
+      Nomad3_HD_NoBg_90: -6880637383654945126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 4c0c490b54aa5f24ba60bdc0b10887d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5849925214956882172
+    second: "Decor - Sao ch\xE9p_0"
+  - first:
+      213: 7912686090497280906
+    second: "Decor - Sao ch\xE9p_1"
+  - first:
+      213: 2908100103366111725
+    second: "Decor - Sao ch\xE9p_2"
+  - first:
+      213: -894493024228599298
+    second: "Decor - Sao ch\xE9p_3"
+  - first:
+      213: -4654253358598590159
+    second: "Decor - Sao ch\xE9p_4"
+  - first:
+      213: 2014174969542773674
+    second: "Decor - Sao ch\xE9p_5"
+  - first:
+      213: 6019353854779634344
+    second: "Decor - Sao ch\xE9p_6"
+  - first:
+      213: -2154471393594182648
+    second: "Decor - Sao ch\xE9p_7"
+  - first:
+      213: -5620286110878275123
+    second: "Decor - Sao ch\xE9p_8"
+  - first:
+      213: 2723411037378977854
+    second: "Decor - Sao ch\xE9p_9"
+  - first:
+      213: -3117189657102228803
+    second: "Decor - Sao ch\xE9p_10"
+  - first:
+      213: 6235233488348768905
+    second: "Decor - Sao ch\xE9p_11"
+  - first:
+      213: -2482190012790584670
+    second: "Decor - Sao ch\xE9p_12"
+  - first:
+      213: 7164917131051124466
+    second: "Decor - Sao ch\xE9p_13"
+  - first:
+      213: 5331665109193216706
+    second: "Decor - Sao ch\xE9p_14"
+  - first:
+      213: -1662282866227339661
+    second: "Decor - Sao ch\xE9p_15"
+  - first:
+      213: -4103060708672876407
+    second: "Decor - Sao ch\xE9p_16"
+  - first:
+      213: 1095555350649065180
+    second: "Decor - Sao ch\xE9p_17"
+  - first:
+      213: -1260618291035897614
+    second: "Decor - Sao ch\xE9p_18"
+  - first:
+      213: -4952491043978905730
+    second: "Decor - Sao ch\xE9p_19"
+  - first:
+      213: -8522356612617833539
+    second: "Decor - Sao ch\xE9p_20"
+  - first:
+      213: -7252456299060612539
+    second: "Decor - Sao ch\xE9p_21"
+  - first:
+      213: -54734887078644476
+    second: "Decor - Sao ch\xE9p_22"
+  - first:
+      213: 6922563941710737833
+    second: "Decor - Sao ch\xE9p_23"
+  - first:
+      213: -3135768933433154783
+    second: "Decor - Sao ch\xE9p_24"
+  - first:
+      213: -2996486532248772875
+    second: "Decor - Sao ch\xE9p_25"
+  - first:
+      213: 1201272617869090203
+    second: "Decor - Sao ch\xE9p_26"
+  - first:
+      213: -1215039364580184856
+    second: "Decor - Sao ch\xE9p_27"
+  - first:
+      213: 7106141489461665801
+    second: "Decor - Sao ch\xE9p_28"
+  - first:
+      213: 751139605954676511
+    second: "Decor - Sao ch\xE9p_29"
+  - first:
+      213: -2171132034143275899
+    second: "Decor - Sao ch\xE9p_30"
+  - first:
+      213: 6115652473974388488
+    second: "Decor - Sao ch\xE9p_31"
+  - first:
+      213: -4130918344204936948
+    second: "Decor - Sao ch\xE9p_32"
+  - first:
+      213: 5561795080072268974
+    second: "Decor - Sao ch\xE9p_33"
+  - first:
+      213: 3031693533361571964
+    second: "Decor - Sao ch\xE9p_34"
+  - first:
+      213: 5376587261572915471
+    second: "Decor - Sao ch\xE9p_35"
+  - first:
+      213: -4985119231617155812
+    second: "Decor - Sao ch\xE9p_36"
+  - first:
+      213: -3826425638251558852
+    second: "Decor - Sao ch\xE9p_37"
+  - first:
+      213: 2664857242865276054
+    second: "Decor - Sao ch\xE9p_38"
+  - first:
+      213: -3175435658387572629
+    second: "Decor - Sao ch\xE9p_39"
+  - first:
+      213: 9190021970404823967
+    second: "Decor - Sao ch\xE9p_40"
+  - first:
+      213: 7844628411761417484
+    second: "Decor - Sao ch\xE9p_41"
+  - first:
+      213: -2931650855379014596
+    second: "Decor - Sao ch\xE9p_42"
+  - first:
+      213: 8185442494988315462
+    second: "Decor - Sao ch\xE9p_43"
+  - first:
+      213: 4798026224485781986
+    second: "Decor - Sao ch\xE9p_44"
+  - first:
+      213: 6431740088220620120
+    second: "Decor - Sao ch\xE9p_45"
+  - first:
+      213: 2423796313580835870
+    second: "Decor - Sao ch\xE9p_46"
+  - first:
+      213: 2247046934470160107
+    second: "Decor - Sao ch\xE9p_47"
+  - first:
+      213: -767801332585722414
+    second: "Decor - Sao ch\xE9p_48"
+  - first:
+      213: -3794105032552498410
+    second: "Decor - Sao ch\xE9p_49"
+  - first:
+      213: 3952060396016116614
+    second: "Decor - Sao ch\xE9p_50"
+  - first:
+      213: -7174691703532740155
+    second: "Decor - Sao ch\xE9p_51"
+  - first:
+      213: -2889961691854770850
+    second: "Decor - Sao ch\xE9p_52"
+  - first:
+      213: -1026977175095615188
+    second: "Decor - Sao ch\xE9p_53"
+  - first:
+      213: 4934989098037827474
+    second: "Decor - Sao ch\xE9p_54"
+  - first:
+      213: -7962400762113047263
+    second: "Decor - Sao ch\xE9p_55"
+  - first:
+      213: 8967044323365099625
+    second: "Decor - Sao ch\xE9p_56"
+  - first:
+      213: 5123233046094405641
+    second: "Decor - Sao ch\xE9p_57"
+  - first:
+      213: 3366861803906652168
+    second: "Decor - Sao ch\xE9p_58"
+  - first:
+      213: -6820419621529509497
+    second: "Decor - Sao ch\xE9p_59"
+  - first:
+      213: -5166826170679061891
+    second: "Decor - Sao ch\xE9p_60"
+  - first:
+      213: 4687955358270715499
+    second: "Decor - Sao ch\xE9p_61"
+  - first:
+      213: -4122973856830977835
+    second: "Decor - Sao ch\xE9p_62"
+  - first:
+      213: 2767640904679513351
+    second: "Decor - Sao ch\xE9p_63"
+  - first:
+      213: -6129876618712002137
+    second: "Decor - Sao ch\xE9p_64"
+  - first:
+      213: 2097172677777948083
+    second: "Decor - Sao ch\xE9p_65"
+  - first:
+      213: -6815258593854684802
+    second: "Decor - Sao ch\xE9p_66"
+  - first:
+      213: 9083269423696868536
+    second: "Decor - Sao ch\xE9p_67"
+  - first:
+      213: -8309194777431308700
+    second: "Decor - Sao ch\xE9p_68"
+  - first:
+      213: -5852426229525429590
+    second: "Decor - Sao ch\xE9p_69"
+  - first:
+      213: 3941110018963767883
+    second: "Decor - Sao ch\xE9p_70"
+  - first:
+      213: 2476627584557021788
+    second: "Decor - Sao ch\xE9p_71"
+  - first:
+      213: 3482024881063261151
+    second: "Decor - Sao ch\xE9p_72"
+  - first:
+      213: 4773099604996174866
+    second: "Decor - Sao ch\xE9p_73"
+  - first:
+      213: -4925081756776163188
+    second: "Decor - Sao ch\xE9p_74"
+  - first:
+      213: 6434172764211017701
+    second: "Decor - Sao ch\xE9p_75"
+  - first:
+      213: 1607402149899715144
+    second: "Decor - Sao ch\xE9p_76"
+  - first:
+      213: -5721731143221823115
+    second: "Decor - Sao ch\xE9p_77"
+  - first:
+      213: -3174534449943996610
+    second: "Decor - Sao ch\xE9p_78"
+  - first:
+      213: 2231806961384980764
+    second: "Decor - Sao ch\xE9p_79"
+  - first:
+      213: -36479755629449047
+    second: "Decor - Sao ch\xE9p_80"
+  - first:
+      213: 3609172758181635315
+    second: "Decor - Sao ch\xE9p_81"
+  - first:
+      213: 4869894801733410324
+    second: "Decor - Sao ch\xE9p_82"
+  - first:
+      213: 8705057181324409342
+    second: "Decor - Sao ch\xE9p_83"
+  - first:
+      213: 1096800768366891902
+    second: "Decor - Sao ch\xE9p_84"
+  - first:
+      213: -8202669674123190862
+    second: "Decor - Sao ch\xE9p_85"
+  - first:
+      213: 3935061173675482378
+    second: "Decor - Sao ch\xE9p_86"
+  - first:
+      213: 4497216265546871038
+    second: "Decor - Sao ch\xE9p_87"
+  - first:
+      213: -7616289056327383687
+    second: "Decor - Sao ch\xE9p_88"
+  - first:
+      213: -8037060252196747378
+    second: "Decor - Sao ch\xE9p_89"
+  - first:
+      213: 4215751866820264694
+    second: "Decor - Sao ch\xE9p_90"
+  - first:
+      213: -8394026099586580455
+    second: "Decor - Sao ch\xE9p_91"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80b102dfb1f2150800000000000000
+      internalID: 5849925214956882172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_1"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 511
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bc34b73128fcd60800000000000000
+      internalID: 7912686090497280906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_2"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 511
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f960e2a5ab5820800000000000000
+      internalID: 2908100103366111725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_3"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 511
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91acc655f1693f0800000000000000
+      internalID: -894493024228599298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_4"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 511
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ff0aca35c86fb0800000000000000
+      internalID: -4654253358598590159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_5"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 511
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab84179679c3fb10800000000000000
+      internalID: 2014174969542773674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_6"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 511
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2b483607a098350800000000000000
+      internalID: 6019353854779634344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_7"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 511
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f312bea7c912e0800000000000000
+      internalID: -2154471393594182648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_8"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 511
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e9094f8bb002b0800000000000000
+      internalID: -5620286110878275123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_9"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 479
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e302a54c8ef7bc520800000000000000
+      internalID: 2723411037378977854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_10"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 511
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db266eeb5848db4d0800000000000000
+      internalID: -3117189657102228803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_11"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 511
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ae5ac62dff78650800000000000000
+      internalID: 6235233488348768905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_12"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 511
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa4896a55d7d8dd0800000000000000
+      internalID: -2482190012790584670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_13"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 511
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6c9695b26ee6360800000000000000
+      internalID: 7164917131051124466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25ece1b21edf940800000000000000
+      internalID: 5331665109193216706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_15"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 447
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e1d425a826ee8e0800000000000000
+      internalID: -1662282866227339661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_16"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 479
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d0bf36000f07c0800000000000000
+      internalID: -4103060708672876407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_17"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 479
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde473379c1343f00800000000000000
+      internalID: 1095555350649065180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_18"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 479
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f00275e752618ee0800000000000000
+      internalID: -1260618291035897614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_19"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 447
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77755a82a7354bb0800000000000000
+      internalID: -4952491043978905730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_20"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 447
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db376bf60d18ab980800000000000000
+      internalID: -8522356612617833539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_21"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 447
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b271db691a5b90800000000000000
+      internalID: -7252456299060612539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_22"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 447
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053bd209ea8d3ff0800000000000000
+      internalID: -54734887078644476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_23"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 447
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1b8984a33e11060800000000000000
+      internalID: 6922563941710737833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_24"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 415
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e201e4c28b74d0800000000000000
+      internalID: -3135768933433154783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_25"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 415
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed11fff575a66d0800000000000000
+      internalID: -2996486532248772875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_26"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 415
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d9d72d417cba010800000000000000
+      internalID: 1201272617869090203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_27"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 415
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ece41ea220532fe0800000000000000
+      internalID: -1215039364580184856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_28"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 415
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9002703e8061e9260800000000000000
+      internalID: 7106141489461665801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_29"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 415
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17c7aded759c6a00800000000000000
+      internalID: 751139605954676511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_30"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 415
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843b680be69ed1e0800000000000000
+      internalID: -2171132034143275899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_31"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 415
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8077bf0e5892fd450800000000000000
+      internalID: 6115652473974388488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_32"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 415
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09158907a70ca6c0800000000000000
+      internalID: -4130918344204936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_33"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 415
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac093d58277f2d40800000000000000
+      internalID: 5561795080072268974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_34"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788ddbb43db21a20800000000000000
+      internalID: 3031693533361571964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_35"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 383
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01a1f5c0a97d9a40800000000000000
+      internalID: 5376587261572915471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_36"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 383
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dbd7c987c41dab0800000000000000
+      internalID: -4985119231617155812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_37"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c388190c72ec5eac0800000000000000
+      internalID: -3826425638251558852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_38"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6949c1a1b897bf420800000000000000
+      internalID: 2664857242865276054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_39"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 383
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6833b6c7169ee3d0800000000000000
+      internalID: -3175435658387572629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_40"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 383
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d3009a44898f70800000000000000
+      internalID: 9190021970404823967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_41"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 383
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd9f55af7bddc60800000000000000
+      internalID: 7844628411761417484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_42"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 383
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce9af541fa057d0800000000000000
+      internalID: -2931650855379014596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_43"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 383
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b6a23b498889170800000000000000
+      internalID: 8185442494988315462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_44"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 383
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1db7d1e63069240800000000000000
+      internalID: 4798026224485781986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_45"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 383
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855970e8881224950800000000000000
+      internalID: 6431740088220620120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_46"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 351
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1413e6c7ed03a120800000000000000
+      internalID: 2423796313580835870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_47"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 351
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee69b2184d1f2f10800000000000000
+      internalID: 2247046934470160107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_48"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd082981c83855f0800000000000000
+      internalID: -767801332585722414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_49"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 351
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bbf2e2391a85bc0800000000000000
+      internalID: -3794105032552498410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_50"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6832e63cdf988d630800000000000000
+      internalID: 3952060396016116614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_51"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 351
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c12df5a8ef5e6c90800000000000000
+      internalID: -7174691703532740155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_52"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 351
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d6286272bc4e7d0800000000000000
+      internalID: -2889961691854770850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_53"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21edfd43b17fb1f0800000000000000
+      internalID: -1026977175095615188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_54"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 351
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29758fe107a9c7440800000000000000
+      internalID: 4934989098037827474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_55"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 351
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125c3f681bedf7190800000000000000
+      internalID: -7962400762113047263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_56"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 351
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9681c5b7d47517c70800000000000000
+      internalID: 8967044323365099625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_57"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900eff5bf41691740800000000000000
+      internalID: 5123233046094405641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_58"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808dfa5e8fe79be20800000000000000
+      internalID: 3366861803906652168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_59"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78121a78d700951a0800000000000000
+      internalID: -6820419621529509497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_60"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d729b7809febb48b0800000000000000
+      internalID: -5166826170679061891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_61"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b667d9c7f86fe0140800000000000000
+      internalID: 4687955358270715499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_62"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d80e552f1148c6c0800000000000000
+      internalID: -4122973856830977835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_63"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 287
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d534d3db2a86620800000000000000
+      internalID: 2767640904679513351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_64"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 319
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1d2b851bd4eeaa0800000000000000
+      internalID: -6129876618712002137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_65"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 319
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdfb9b6077aa1d10800000000000000
+      internalID: 2097172677777948083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_66"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e710ddcea665b61a0800000000000000
+      internalID: -6815258593854684802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_67"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47e966a614e0e70800000000000000
+      internalID: 9083269423696868536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_68"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660da9bf5fcfac80800000000000000
+      internalID: -8309194777431308700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_69"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 287
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa245fa0a5108cea0800000000000000
+      internalID: -5852426229525429590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_70"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42811d6ea2a1b630800000000000000
+      internalID: 3941110018963767883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_71"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a747a9aafbe5220800000000000000
+      internalID: 2476627584557021788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_72"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f8d64e23a25030800000000000000
+      internalID: 3482024881063261151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_73"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214ba514dc47d3240800000000000000
+      internalID: 4773099604996174866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_74"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 223
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8899958c3896abb0800000000000000
+      internalID: -4925081756776163188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_75"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e77a421a06ca4950800000000000000
+      internalID: 6434172764211017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_76"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 223
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c8fb2db3ae4610800000000000000
+      internalID: 1607402149899715144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_77"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 209
+        width: 98
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57939fb17d35890b0800000000000000
+      internalID: -5721731143221823115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_78"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 95
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3719d7bcb9c1f3d0800000000000000
+      internalID: -3174534449943996610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_79"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1188945b98f8fe10800000000000000
+      internalID: 2231806961384980764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_80"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 127
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b6340bd56e7ff0800000000000000
+      internalID: -36479755629449047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_81"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 159
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4ee68508b561230800000000000000
+      internalID: 3609172758181635315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_82"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 159
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e57d63587559340800000000000000
+      internalID: 4869894801733410324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_83"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9fd4292639ec870800000000000000
+      internalID: 8705057181324409342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_84"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7352ebdc7e983f00800000000000000
+      internalID: 1096800768366891902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_85"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd940814634a2e80800000000000000
+      internalID: -8202669674123190862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_86"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ddb52e9452c9630800000000000000
+      internalID: 3935061173675482378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_87"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0b702cd52596e30800000000000000
+      internalID: 4497216265546871038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_88"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97549e2c4718d4690800000000000000
+      internalID: -7616289056327383687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_89"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c6656840a67090800000000000000
+      internalID: -8037060252196747378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_90"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f20303acfb518a30800000000000000
+      internalID: 4215751866820264694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Decor - Sao ch\xE9p_91"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c8c26cbd628b80800000000000000
+      internalID: -8394026099586580455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Decor - Sao ch\xE9p_0": 5849925214956882172
+      "Decor - Sao ch\xE9p_1": 7912686090497280906
+      "Decor - Sao ch\xE9p_10": -3117189657102228803
+      "Decor - Sao ch\xE9p_11": 6235233488348768905
+      "Decor - Sao ch\xE9p_12": -2482190012790584670
+      "Decor - Sao ch\xE9p_13": 7164917131051124466
+      "Decor - Sao ch\xE9p_14": 5331665109193216706
+      "Decor - Sao ch\xE9p_15": -1662282866227339661
+      "Decor - Sao ch\xE9p_16": -4103060708672876407
+      "Decor - Sao ch\xE9p_17": 1095555350649065180
+      "Decor - Sao ch\xE9p_18": -1260618291035897614
+      "Decor - Sao ch\xE9p_19": -4952491043978905730
+      "Decor - Sao ch\xE9p_2": 2908100103366111725
+      "Decor - Sao ch\xE9p_20": -8522356612617833539
+      "Decor - Sao ch\xE9p_21": -7252456299060612539
+      "Decor - Sao ch\xE9p_22": -54734887078644476
+      "Decor - Sao ch\xE9p_23": 6922563941710737833
+      "Decor - Sao ch\xE9p_24": -3135768933433154783
+      "Decor - Sao ch\xE9p_25": -2996486532248772875
+      "Decor - Sao ch\xE9p_26": 1201272617869090203
+      "Decor - Sao ch\xE9p_27": -1215039364580184856
+      "Decor - Sao ch\xE9p_28": 7106141489461665801
+      "Decor - Sao ch\xE9p_29": 751139605954676511
+      "Decor - Sao ch\xE9p_3": -894493024228599298
+      "Decor - Sao ch\xE9p_30": -2171132034143275899
+      "Decor - Sao ch\xE9p_31": 6115652473974388488
+      "Decor - Sao ch\xE9p_32": -4130918344204936948
+      "Decor - Sao ch\xE9p_33": 5561795080072268974
+      "Decor - Sao ch\xE9p_34": 3031693533361571964
+      "Decor - Sao ch\xE9p_35": 5376587261572915471
+      "Decor - Sao ch\xE9p_36": -4985119231617155812
+      "Decor - Sao ch\xE9p_37": -3826425638251558852
+      "Decor - Sao ch\xE9p_38": 2664857242865276054
+      "Decor - Sao ch\xE9p_39": -3175435658387572629
+      "Decor - Sao ch\xE9p_4": -4654253358598590159
+      "Decor - Sao ch\xE9p_40": 9190021970404823967
+      "Decor - Sao ch\xE9p_41": 7844628411761417484
+      "Decor - Sao ch\xE9p_42": -2931650855379014596
+      "Decor - Sao ch\xE9p_43": 8185442494988315462
+      "Decor - Sao ch\xE9p_44": 4798026224485781986
+      "Decor - Sao ch\xE9p_45": 6431740088220620120
+      "Decor - Sao ch\xE9p_46": 2423796313580835870
+      "Decor - Sao ch\xE9p_47": 2247046934470160107
+      "Decor - Sao ch\xE9p_48": -767801332585722414
+      "Decor - Sao ch\xE9p_49": -3794105032552498410
+      "Decor - Sao ch\xE9p_5": 2014174969542773674
+      "Decor - Sao ch\xE9p_50": 3952060396016116614
+      "Decor - Sao ch\xE9p_51": -7174691703532740155
+      "Decor - Sao ch\xE9p_52": -2889961691854770850
+      "Decor - Sao ch\xE9p_53": -1026977175095615188
+      "Decor - Sao ch\xE9p_54": 4934989098037827474
+      "Decor - Sao ch\xE9p_55": -7962400762113047263
+      "Decor - Sao ch\xE9p_56": 8967044323365099625
+      "Decor - Sao ch\xE9p_57": 5123233046094405641
+      "Decor - Sao ch\xE9p_58": 3366861803906652168
+      "Decor - Sao ch\xE9p_59": -6820419621529509497
+      "Decor - Sao ch\xE9p_6": 6019353854779634344
+      "Decor - Sao ch\xE9p_60": -5166826170679061891
+      "Decor - Sao ch\xE9p_61": 4687955358270715499
+      "Decor - Sao ch\xE9p_62": -4122973856830977835
+      "Decor - Sao ch\xE9p_63": 2767640904679513351
+      "Decor - Sao ch\xE9p_64": -6129876618712002137
+      "Decor - Sao ch\xE9p_65": 2097172677777948083
+      "Decor - Sao ch\xE9p_66": -6815258593854684802
+      "Decor - Sao ch\xE9p_67": 9083269423696868536
+      "Decor - Sao ch\xE9p_68": -8309194777431308700
+      "Decor - Sao ch\xE9p_69": -5852426229525429590
+      "Decor - Sao ch\xE9p_7": -2154471393594182648
+      "Decor - Sao ch\xE9p_70": 3941110018963767883
+      "Decor - Sao ch\xE9p_71": 2476627584557021788
+      "Decor - Sao ch\xE9p_72": 3482024881063261151
+      "Decor - Sao ch\xE9p_73": 4773099604996174866
+      "Decor - Sao ch\xE9p_74": -4925081756776163188
+      "Decor - Sao ch\xE9p_75": 6434172764211017701
+      "Decor - Sao ch\xE9p_76": 1607402149899715144
+      "Decor - Sao ch\xE9p_77": -5721731143221823115
+      "Decor - Sao ch\xE9p_78": -3174534449943996610
+      "Decor - Sao ch\xE9p_79": 2231806961384980764
+      "Decor - Sao ch\xE9p_8": -5620286110878275123
+      "Decor - Sao ch\xE9p_80": -36479755629449047
+      "Decor - Sao ch\xE9p_81": 3609172758181635315
+      "Decor - Sao ch\xE9p_82": 4869894801733410324
+      "Decor - Sao ch\xE9p_83": 8705057181324409342
+      "Decor - Sao ch\xE9p_84": 1096800768366891902
+      "Decor - Sao ch\xE9p_85": -8202669674123190862
+      "Decor - Sao ch\xE9p_86": 3935061173675482378
+      "Decor - Sao ch\xE9p_87": 4497216265546871038
+      "Decor - Sao ch\xE9p_88": -7616289056327383687
+      "Decor - Sao ch\xE9p_89": -8037060252196747378
+      "Decor - Sao ch\xE9p_9": 2723411037378977854
+      "Decor - Sao ch\xE9p_90": 4215751866820264694
+      "Decor - Sao ch\xE9p_91": -8394026099586580455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

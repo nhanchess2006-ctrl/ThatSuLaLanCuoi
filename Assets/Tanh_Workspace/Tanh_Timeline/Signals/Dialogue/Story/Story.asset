@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39288e01ea0bd25409f99304100dbd65, type: 3}
+  m_Name: Story
+  m_EditorClassIdentifier: 
+  combinedLines: "Trong th\xE0nh tr\xEC t\xE2m t\u1ED1i v\xE0 \u0111\u1ED5 n\xE1t
+    nh\u1EEFng c\u01A1n gi\xF3 l\u1EA1nh kh\xF4ng ng\u1EEBng th\u1ED5i qua, tr\xEAn
+    tr\u1EDDi l\xE0 c\u01A1n m\u01B0a m\xE1u \u0111ang kh\xF4ng ng\u1EEBng r\u01A1i
+    xu\u1ED1ng, nh\u1EEFng thi th\u1EC3 n\u1EB1m kh\u1EAFp m\u1ECDi n\u01A1i trong
+    th\xE0nh, c\xF3 thi th\u1EC3 tr\u1EBB em ch\u1EBFt trong v\xF2ng tay c\u1EE7a
+    m\u1EB9 th\xEC \u0111\xF3i kh\xE1t.|C\xF3 nh\u1EEFng thi th\u1EC3 ch\u1EBFt v\xEC
+    b\u1ECB \u0111\xE1 \u0111\xE8 ch\u1ED3ng l\xEAn nhau, c\xF3 thi th\u1EC3 ch\u1EBFt
+    do ki\u1EC7t s\u1EE9c, nh\u01B0ng l\u1EABn trong m\xE0n \u0111\xEAm t\xE2m t\u1ED1i
+    \u0111\xF3 l\xE0 m\u1ED9t h\xECnh b\xF3ng \u0111\u1EE9a nh\xF3c 13 tu\u1ED5i
+    \u0111ang loay hoay gom t\u1EADp h\u01A1n nh\u1EEFng b\u1ED9t x\xE1c l\u1EA1i
+    th\xE0nh \u0111\u1ED1ng \u0111\u1EC3 \u201Ch\u1ECFa thi\xEAu\u201D. "
