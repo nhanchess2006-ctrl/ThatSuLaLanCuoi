@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 [RequireComponent(typeof(Rigidbody2D))]
-public class FallingObjectDamage : MonoBehaviour
+public class FallingObjectDamage1 : MonoBehaviour
 {
     [Header("Damage Settings")]
     public float damageAmount = 200f;

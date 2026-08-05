@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HazardTrigger : MonoBehaviour
+public class HazardTrigger1 : MonoBehaviour
 {
     [Header("Settings for falling object")]
     [Tooltip("Kéo thả Prefab của vật thể gây sát thương vào đây")]
