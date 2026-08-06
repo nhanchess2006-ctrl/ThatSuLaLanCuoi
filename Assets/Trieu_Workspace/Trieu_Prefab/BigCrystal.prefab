@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 217c7e21da6ff2f4bb64dbec420cb11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageAmount: 200
+  damageAmount: 10
   elementalDamageAmount: 0
   playerTag: Player
   impactEffect: {fileID: 0}
