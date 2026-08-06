@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1113598514246591555}
   - component: {fileID: 961484030944791016}
   - component: {fileID: 2596515770563359891}
+  - component: {fileID: -606646355416542504}
   m_Layer: 0
   m_Name: Mossy - Decorations&Hazards_30
   m_TagString: Untagged
@@ -134,3 +135,16 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.38157895, y: 1.745614}
   m_EdgeRadius: 0
+--- !u!114 &-606646355416542504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1777152942101800804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9afe769dd8d99ee4182fa5cb7842bd69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  requireBoss: 0

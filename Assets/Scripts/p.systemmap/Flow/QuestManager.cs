@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class QuestManager : MonoBehaviour
 {
+    public bool bossDefeated = false;
     public static QuestManager Instance;
 
     [SerializeField] private QuestUI questUI;
