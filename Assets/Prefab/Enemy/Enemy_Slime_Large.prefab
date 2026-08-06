@@ -74,7 +74,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -794797989
-  m_SortingLayer: -2
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: -6558722525409247296, guid: 382353d80987533429a0b10b9ab50225, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -366,7 +366,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -794797989
-  m_SortingLayer: -2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 62891f7126431ec48a4b4d35fa7e8f10, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -905,7 +905,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -794797989
-  m_SortingLayer: -2
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 0.11792451, b: 0.11792451, a: 0.72156864}
@@ -1516,6 +1516,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2995eb4de6f6a5041b613e3c4e1ef311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageEchoInterval: 0.05
+  imageEchoPrefab: {fileID: 0}
   onDamageMaterial: {fileID: 2100000, guid: c92512a543c5a94499df3cc98251d3a9, type: 2}
   onDamageVfxDuration: 0.2
   hitVfxColor: {r: 0.5, g: 0.45990565, b: 0.45990565, a: 1}
@@ -1540,7 +1542,7 @@ MonoBehaviour:
   defaultStatSetup: {fileID: 11400000, guid: 5e11709fdb4158448aabbb7715ca501f, type: 2}
   resources:
     maxHealth:
-      baseValue: 1500
+      baseValue: 100
       modifiers: []
     healthRegen:
       baseValue: 0
@@ -1669,6 +1671,8 @@ MonoBehaviour:
   questTargetId: enemy_slime
   battleMoveSpeed: 2.5
   attackDistance: 2
+  attackCooldown: 0.5
+  canChasePlayer: 1
   battleTimeDuration: 5
   minRetreatDistance: 1
   retreatVelocity: {x: 4, y: 2}
@@ -1685,5 +1689,4 @@ MonoBehaviour:
   playerCheckDistance: 10
   slimeToCreatePrefab: {fileID: 1267526934011421454, guid: 86c02021f64d74c4f863a2f976b485c1, type: 3}
   amountOfSlimesToCreate: 2
-  newSlimeVelocity: {x: 4, y: 3}
   hasRecoveryAnimation: 1
