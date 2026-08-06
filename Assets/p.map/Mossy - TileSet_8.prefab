@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7033449975145957149}
   - component: {fileID: 1883622439878369563}
   - component: {fileID: 1564802853683301778}
-  - component: {fileID: 1741917145654959373}
+  - component: {fileID: 9152920695401637153}
   m_Layer: 0
   m_Name: Mossy - TileSet_8
   m_TagString: Untagged
@@ -163,7 +163,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1741917145654959373
+--- !u!114 &9152920695401637153
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -175,5 +175,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 153a45e76b6bbf241b1d30925f2d5cac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  disappearDelay: 0.5
-  respawnTime: 5

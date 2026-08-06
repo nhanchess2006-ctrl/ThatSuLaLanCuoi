@@ -8,6 +8,7 @@ public class QuestManager : MonoBehaviour
 
     public int currentFlower = 0;
     public int targetFlower = 20;
+    
 
     private void Awake()
     {
@@ -18,6 +19,10 @@ public class QuestManager : MonoBehaviour
     {
         questUI.UpdateProgress(currentFlower, targetFlower);
     }
+    public bool IsQuestCompleted()
+    {
+      return currentFlower >= 10;
+   }
 
     public void CollectFlower()
     {
