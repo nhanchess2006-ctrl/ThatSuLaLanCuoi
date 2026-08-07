@@ -42320,6 +42320,10 @@ PrefabInstance:
       value: 13.8
       objectReference: {fileID: 0}
     - target: {fileID: 5758987329480842236, guid: 240a5ad2871f3d74e970724df7014414, type: 3}
+      propertyPath: wallCheckDistance
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 5758987329480842236, guid: 240a5ad2871f3d74e970724df7014414, type: 3}
       propertyPath: groundCheckDistance
       value: 2.31
       objectReference: {fileID: 0}

@@ -847,7 +847,7 @@ MonoBehaviour:
   - itemData: {fileID: 0}
     stackSize: 0
     itemEffect: {fileID: 0}
-  gold: 500
+  gold: 600
 --- !u!114 &5758987329480842236
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -878,8 +878,8 @@ MonoBehaviour:
   riseSpeed: 25
   riseMaxDistance: 3
   moveSpeed: 8
-  jumpForce: 12
-  wallJumpForce: {x: 6, y: 12}
+  jumpForce: 14
+  wallJumpForce: {x: 6, y: 14}
   inAirMoveMultiplier: 0.8
   wallSlideSlowMultiplier: 0.4
   dashDuration: 0.25
@@ -976,6 +976,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   counterRecovery: 0.4
+  whatIsCounterable:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &6534155588746563301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1015,6 +1018,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 631caecb7f19e63498abbfd4062eb048, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  imageEchoInterval: 0.08
+  imageEchoPrefab: {fileID: 3013030631492103651, guid: 6fb5646cb6d638a478c3c567687e9539, type: 3}
   onDamageMaterial: {fileID: 2100000, guid: c92512a543c5a94499df3cc98251d3a9, type: 2}
   onDamageVfxDuration: 0.15
   hitVfxColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1023,8 +1028,6 @@ MonoBehaviour:
   chillVfx: {r: 0.42352942, g: 0.69803923, b: 1, a: 1}
   burnVfx: {r: 1, g: 0, b: 0, a: 1}
   shockVfx: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  imageEchoInterval: 0.08
-  imageEchoPrefab: {fileID: 3013030631492103651, guid: 6fb5646cb6d638a478c3c567687e9539, type: 3}
 --- !u!114 &626524063579701930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1243,7 +1246,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1831899741
-  m_SortingLayer: -1
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 286124887, guid: 0a3f5e23b367f13428bdf880a182b529, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
