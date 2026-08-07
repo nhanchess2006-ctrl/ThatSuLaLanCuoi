@@ -1,12 +1,20 @@
 using TMPro;
 using UnityEngine;
+using System.Collections;
 
 public class QuestUI : MonoBehaviour
 {
-    [SerializeField] private TMP_Text progressText;
+[SerializeField] private TMP_Text progressText;
 
-    public void UpdateProgress(int current, int target)
-    {
-        progressText.text = $"🌼 {current}/{target}";
-    }
+
+private void Awake()
+{
+   
+}
+
+public void UpdateProgress(int current, int target)
+{
+    progressText.text = $"🌼 {current}/{target}";
+}
+
 }
