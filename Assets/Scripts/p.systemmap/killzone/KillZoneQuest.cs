@@ -3,7 +3,7 @@ using UnityEngine;
 public class KillZoneQuest : MonoBehaviour
 {
     [Header("Quest Condition")]
-    [SerializeField] private int requiredFlower = 10;
+    [SerializeField] private int requiredFlower = 5 ;
 
     [Header("Kill")]
     [SerializeField] private float killDamage = 999999f;
