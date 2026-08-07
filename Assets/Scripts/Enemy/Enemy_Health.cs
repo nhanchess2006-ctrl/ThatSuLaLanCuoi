@@ -32,8 +32,9 @@ public class Enemy_Health : Entity_Health
     protected override void Die()
     {
         base.Die();
-        QuestManager.Instance.bossDefeated = true;
-
-       questManager.AddProgress(enemy.questTargetId);
+     if (QuestManager.Instance != null)
+    {
+        QuestManager.Instance.NotifyEnemyDeath(this);
+    }
     }
 }
