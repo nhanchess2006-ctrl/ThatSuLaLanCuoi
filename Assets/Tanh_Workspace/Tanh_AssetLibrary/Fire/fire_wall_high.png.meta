@@ -409,10 +409,10 @@ TextureImporter:
       name: fire_wall_high_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 7999
-        width: 976
-        height: 603
+        x: 0
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: fire_wall_high_1
       rect:
         serializedVersion: 2
-        x: 1002
-        y: 7999
-        width: 982
-        height: 603
+        x: 1000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +453,10 @@ TextureImporter:
       name: fire_wall_high_2
       rect:
         serializedVersion: 2
-        x: 1994
-        y: 7999
-        width: 993
-        height: 602
+        x: 2000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,10 +475,10 @@ TextureImporter:
       name: fire_wall_high_3
       rect:
         serializedVersion: 2
-        x: 2999
-        y: 7999
-        width: 986
-        height: 608
+        x: 3000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,10 +497,10 @@ TextureImporter:
       name: fire_wall_high_4
       rect:
         serializedVersion: 2
-        x: 3996
-        y: 7999
-        width: 1001
-        height: 605
+        x: 4000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,10 +519,10 @@ TextureImporter:
       name: fire_wall_high_5
       rect:
         serializedVersion: 2
-        x: 5002
-        y: 7999
-        width: 998
-        height: 611
+        x: 5000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,10 +541,10 @@ TextureImporter:
       name: fire_wall_high_6
       rect:
         serializedVersion: 2
-        x: 6001
-        y: 7999
-        width: 1002
-        height: 606
+        x: 6000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,35 +560,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_7
-      rect:
-        serializedVersion: 2
-        x: 7002
-        y: 7999
-        width: 1000
-        height: 615
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aed7e79a463c99880800000000000000
-      internalID: -8603630776006836758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_8
       rect:
         serializedVersion: 2
-        x: 8002
-        y: 7999
-        width: 998
-        height: 620
+        x: 8000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,35 +582,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_9
-      rect:
-        serializedVersion: 2
-        x: 8721
-        y: 8535
-        width: 80
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3b5d221bac3bc870800000000000000
-      internalID: 8704117410265652026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_10
       rect:
         serializedVersion: 2
-        x: 990
-        y: 8158
-        width: 11
-        height: 12
+        x: 1000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,10 +607,10 @@ TextureImporter:
       name: fire_wall_high_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6999
-        width: 1004
-        height: 617
+        x: 2000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -673,10 +629,10 @@ TextureImporter:
       name: fire_wall_high_12
       rect:
         serializedVersion: 2
-        x: 1003
-        y: 6999
-        width: 998
-        height: 617
+        x: 3000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,10 +651,10 @@ TextureImporter:
       name: fire_wall_high_13
       rect:
         serializedVersion: 2
-        x: 2001
-        y: 6999
+        x: 4000
+        y: 7000
         width: 1000
-        height: 622
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -717,10 +673,10 @@ TextureImporter:
       name: fire_wall_high_14
       rect:
         serializedVersion: 2
-        x: 3001
-        y: 6999
-        width: 1001
-        height: 624
+        x: 5000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -739,10 +695,10 @@ TextureImporter:
       name: fire_wall_high_15
       rect:
         serializedVersion: 2
-        x: 4002
-        y: 6999
-        width: 1005
-        height: 626
+        x: 6000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -761,10 +717,10 @@ TextureImporter:
       name: fire_wall_high_16
       rect:
         serializedVersion: 2
-        x: 5006
-        y: 6999
-        width: 999
-        height: 627
+        x: 7000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,10 +739,10 @@ TextureImporter:
       name: fire_wall_high_17
       rect:
         serializedVersion: 2
-        x: 6006
-        y: 6999
-        width: 995
-        height: 629
+        x: 8000
+        y: 7000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,10 +761,10 @@ TextureImporter:
       name: fire_wall_high_18
       rect:
         serializedVersion: 2
-        x: 7004
-        y: 6999
-        width: 998
-        height: 624
+        x: 0
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +783,10 @@ TextureImporter:
       name: fire_wall_high_19
       rect:
         serializedVersion: 2
-        x: 8002
-        y: 6999
-        width: 998
-        height: 626
+        x: 1000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -849,10 +805,10 @@ TextureImporter:
       name: fire_wall_high_20
       rect:
         serializedVersion: 2
-        x: 1
-        y: 5999
+        x: 2000
+        y: 6000
         width: 1000
-        height: 627
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -871,10 +827,10 @@ TextureImporter:
       name: fire_wall_high_21
       rect:
         serializedVersion: 2
-        x: 1002
-        y: 5999
-        width: 999
-        height: 629
+        x: 3000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -893,10 +849,10 @@ TextureImporter:
       name: fire_wall_high_22
       rect:
         serializedVersion: 2
-        x: 2001
-        y: 5999
-        width: 1002
-        height: 612
+        x: 4000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -915,10 +871,10 @@ TextureImporter:
       name: fire_wall_high_23
       rect:
         serializedVersion: 2
-        x: 3002
-        y: 5999
-        width: 999
-        height: 611
+        x: 5000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,10 +893,10 @@ TextureImporter:
       name: fire_wall_high_24
       rect:
         serializedVersion: 2
-        x: 3585
-        y: 6553
-        width: 45
-        height: 48
+        x: 6000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,10 +915,10 @@ TextureImporter:
       name: fire_wall_high_25
       rect:
         serializedVersion: 2
-        x: 3697
-        y: 6490
-        width: 105
-        height: 117
+        x: 7000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -981,10 +937,10 @@ TextureImporter:
       name: fire_wall_high_26
       rect:
         serializedVersion: 2
-        x: 4004
-        y: 5999
-        width: 997
-        height: 615
+        x: 8000
+        y: 6000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1003,10 +959,10 @@ TextureImporter:
       name: fire_wall_high_27
       rect:
         serializedVersion: 2
-        x: 4588
-        y: 6562
-        width: 36
-        height: 38
+        x: 0
+        y: 5000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1022,35 +978,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_28
-      rect:
-        serializedVersion: 2
-        x: 4704
-        y: 6496
-        width: 97
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e4b2b8d8e6322260800000000000000
-      internalID: 7071274738621002977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_29
       rect:
         serializedVersion: 2
-        x: 5006
-        y: 5999
-        width: 995
-        height: 607
+        x: 2000
+        y: 5000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1066,57 +1000,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_30
-      rect:
-        serializedVersion: 2
-        x: 5727
-        y: 6544
-        width: 72
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5779f051382231990800000000000000
-      internalID: -7416546214959671435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_31
-      rect:
-        serializedVersion: 2
-        x: 6009
-        y: 5999
-        width: 992
-        height: 616
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6370f537e5b10aea0800000000000000
-      internalID: -5863656622359902410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_32
       rect:
         serializedVersion: 2
-        x: 6734
-        y: 6553
-        width: 63
-        height: 59
+        x: 5000
+        y: 5000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1132,35 +1022,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_33
-      rect:
-        serializedVersion: 2
-        x: 7013
-        y: 5999
-        width: 996
-        height: 616
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b0154e29b1cc8910800000000000000
-      internalID: 1841059348777078966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_34
       rect:
         serializedVersion: 2
-        x: 7741
-        y: 6561
-        width: 53
-        height: 51
+        x: 7000
+        y: 5000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1176,35 +1044,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_35
-      rect:
-        serializedVersion: 2
-        x: 8018
-        y: 5999
-        width: 982
-        height: 625
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b7c0dacc73da7110800000000000000
-      internalID: 1259551578735560633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_36
       rect:
         serializedVersion: 2
-        x: 22
-        y: 4999
-        width: 979
-        height: 632
+        x: 0
+        y: 4000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1220,35 +1066,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_37
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 4999
-        width: 977
-        height: 638
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c495eb16545445b90800000000000000
-      internalID: -7254096935492101812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_38
       rect:
         serializedVersion: 2
-        x: 2022
-        y: 4999
-        width: 979
-        height: 646
+        x: 2000
+        y: 4000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1264,35 +1088,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_39
-      rect:
-        serializedVersion: 2
-        x: 3014
-        y: 4999
-        width: 987
-        height: 652
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 120fb0d520c5d7e00800000000000000
-      internalID: 1044091853840576545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_40
       rect:
         serializedVersion: 2
-        x: 4011
-        y: 4999
-        width: 998
-        height: 657
+        x: 4000
+        y: 4000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1311,10 +1113,10 @@ TextureImporter:
       name: fire_wall_high_41
       rect:
         serializedVersion: 2
-        x: 5009
-        y: 4999
-        width: 992
-        height: 658
+        x: 5000
+        y: 4000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1333,10 +1135,10 @@ TextureImporter:
       name: fire_wall_high_42
       rect:
         serializedVersion: 2
-        x: 6002
-        y: 4999
-        width: 999
-        height: 664
+        x: 6000
+        y: 4000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1355,10 +1157,10 @@ TextureImporter:
       name: fire_wall_high_43
       rect:
         serializedVersion: 2
-        x: 7001
-        y: 4999
+        x: 7000
+        y: 4000
         width: 1000
-        height: 666
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1377,10 +1179,10 @@ TextureImporter:
       name: fire_wall_high_44
       rect:
         serializedVersion: 2
-        x: 7999
-        y: 4999
-        width: 1001
-        height: 671
+        x: 8000
+        y: 4000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1399,10 +1201,10 @@ TextureImporter:
       name: fire_wall_high_45
       rect:
         serializedVersion: 2
-        x: 568
-        y: 4588
-        width: 91
-        height: 84
+        x: 0
+        y: 3000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1421,10 +1223,10 @@ TextureImporter:
       name: fire_wall_high_46
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 3999
-        width: 995
-        height: 624
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1443,10 +1245,10 @@ TextureImporter:
       name: fire_wall_high_47
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 4598
-        width: 81
-        height: 73
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1465,10 +1267,10 @@ TextureImporter:
       name: fire_wall_high_48
       rect:
         serializedVersion: 2
-        x: 2002
-        y: 3999
-        width: 1002
-        height: 632
+        x: 3000
+        y: 3000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1487,10 +1289,10 @@ TextureImporter:
       name: fire_wall_high_49
       rect:
         serializedVersion: 2
-        x: 2586
-        y: 4607
-        width: 71
-        height: 65
+        x: 4000
+        y: 3000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1506,35 +1308,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_50
-      rect:
-        serializedVersion: 2
-        x: 3001
-        y: 3999
-        width: 1003
-        height: 641
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1e7a84deb9fe16c0800000000000000
-      internalID: -4170621606893552099
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_51
       rect:
         serializedVersion: 2
-        x: 3593
-        y: 4615
-        width: 63
-        height: 56
+        x: 6000
+        y: 3000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1550,123 +1330,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_52
-      rect:
-        serializedVersion: 2
-        x: 3999
-        y: 3999
-        width: 974
-        height: 639
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35301fe37ec02eac0800000000000000
-      internalID: -3827482545978539181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_53
-      rect:
-        serializedVersion: 2
-        x: 4599
-        y: 4622
-        width: 55
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5143f01c025e5000800000000000000
-      internalID: 26548859588264286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_54
-      rect:
-        serializedVersion: 2
-        x: 4999
-        y: 3999
-        width: 981
-        height: 642
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 227a359025babff30800000000000000
-      internalID: 4610467012375979810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_55
-      rect:
-        serializedVersion: 2
-        x: 5996
-        y: 3999
-        width: 988
-        height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: deb53badea7f8e630800000000000000
-      internalID: 3956684603010538477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_56
-      rect:
-        serializedVersion: 2
-        x: 6988
-        y: 3999
-        width: 1007
-        height: 636
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c12baa05baea3db0800000000000000
-      internalID: -4811275188602986044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fire_wall_high_57
       rect:
         serializedVersion: 2
-        x: 7271
-        y: 4563
-        width: 77
-        height: 91
+        x: 3000
+        y: 2000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1685,10 +1355,10 @@ TextureImporter:
       name: fire_wall_high_58
       rect:
         serializedVersion: 2
-        x: 7999
-        y: 3999
-        width: 994
-        height: 640
+        x: 4000
+        y: 2000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1707,10 +1377,10 @@ TextureImporter:
       name: fire_wall_high_59
       rect:
         serializedVersion: 2
-        x: 8274
-        y: 4574
-        width: 68
-        height: 75
+        x: 5000
+        y: 2000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1729,10 +1399,10 @@ TextureImporter:
       name: fire_wall_high_60
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4291
-        width: 80
-        height: 80
+        x: 6000
+        y: 2000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1751,10 +1421,10 @@ TextureImporter:
       name: fire_wall_high_61
       rect:
         serializedVersion: 2
-        x: 8
-        y: 3999
-        width: 993
-        height: 614
+        x: 7000
+        y: 2000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1773,10 +1443,10 @@ TextureImporter:
       name: fire_wall_high_62
       rect:
         serializedVersion: 2
-        x: 999
-        y: 4297
-        width: 72
-        height: 72
+        x: 8000
+        y: 2000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1795,10 +1465,10 @@ TextureImporter:
       name: fire_wall_high_63
       rect:
         serializedVersion: 2
-        x: 1999
-        y: 4305
-        width: 64
-        height: 62
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1817,10 +1487,10 @@ TextureImporter:
       name: fire_wall_high_64
       rect:
         serializedVersion: 2
-        x: 2999
-        y: 4311
-        width: 57
-        height: 54
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1839,10 +1509,10 @@ TextureImporter:
       name: fire_wall_high_65
       rect:
         serializedVersion: 2
-        x: 4964
-        y: 4175
-        width: 37
-        height: 60
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1861,10 +1531,10 @@ TextureImporter:
       name: fire_wall_high_66
       rect:
         serializedVersion: 2
-        x: 5977
-        y: 4195
-        width: 24
-        height: 36
+        x: 3000
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1883,10 +1553,10 @@ TextureImporter:
       name: fire_wall_high_67
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2999
-        width: 998
-        height: 649
+        x: 4000
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1902,22 +1572,352 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fire_wall_high_68
+      name: fire_wall_high_7
       rect:
         serializedVersion: 2
-        x: 276
-        y: 3585
-        width: 60
-        height: 66
+        x: 7000
+        y: 8000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ecfacfd1dddc9cd0800000000000000
+      spriteID: 3dfc77ec00b71894faafd37856603c71
+      internalID: -8603630776006836758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a20bcffc2f1443a3b339dada0c5dc
+      internalID: 8704117410265652026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fda28aecc2e04ca5202cadd8389da
+      internalID: 7071274738621002977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2879677b39e75b47b2a51ec91e48b49
+      internalID: -7416546214959671435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_31
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef972f7200d5a4780e72bf37ec38e1
+      internalID: -5863656622359902410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_33
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b356af1fa771042bd2786f90e52baf
+      internalID: 1841059348777078966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_35
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bd656ff7df02418383fa8a4ab1b0d
+      internalID: 1259551578735560633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ec64bad1058fd48acb2c0e60cfda7b
+      internalID: -7254096935492101812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_39
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db9905c71464340b91223d603b9455
+      internalID: 1044091853840576545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_50
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a70e70c56754438a6f2e4e84458d7
+      internalID: -4170621606893552099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_52
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf21e0387ca8274ca89ee79319734b9
+      internalID: -3827482545978539181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_53
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b083b14394e24787f90d65cf37dd3
+      internalID: 26548859588264286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f2ddb171d1e04dadffa62c8c7234e
+      internalID: 4610467012375979810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e256d4e0cfda4ab239882b85beff0
+      internalID: 3956684603010538477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_56
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b183dae31856b40b55c33ef3f7c4a5
+      internalID: -4811275188602986044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_wall_high_68
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d66b06a79e0746b4cb98b96bf47e6
       internalID: -2549919395526017818
       vertices: []
       indices: 
@@ -1927,19 +1927,19 @@ TextureImporter:
       name: fire_wall_high_69
       rect:
         serializedVersion: 2
-        x: 999
-        y: 2999
-        width: 1001
-        height: 646
+        x: 6000
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97d581be5b0856c80800000000000000
+      spriteID: aa5dcbeee91aaa24786a4042c5a4460a
       internalID: -8330110416930185863
       vertices: []
       indices: 
@@ -1949,19 +1949,19 @@ TextureImporter:
       name: fire_wall_high_70
       rect:
         serializedVersion: 2
-        x: 1279
-        y: 3596
-        width: 53
-        height: 56
+        x: 7000
+        y: 1000
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b1dfd045ece942130800000000000000
+      spriteID: bbec038907f1ca546ac945803eb0a505
       internalID: 3541129816030706971
       vertices: []
       indices: 
@@ -1971,702 +1971,20 @@ TextureImporter:
       name: fire_wall_high_71
       rect:
         serializedVersion: 2
-        x: 1999
-        y: 2999
-        width: 2976
-        height: 659
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c331876ce59d78fd0800000000000000
-      internalID: -2339662480315772100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_72
-      rect:
-        serializedVersion: 2
-        x: 2282
-        y: 3606
-        width: 43
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 905ec3f6781e525d0800000000000000
-      internalID: -3087813997689510647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_73
-      rect:
-        serializedVersion: 2
-        x: 3284
-        y: 3614
-        width: 37
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4bf437a8b4db4c3b0800000000000000
-      internalID: -5493057513342152780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_74
-      rect:
-        serializedVersion: 2
-        x: 4289
-        y: 3623
-        width: 27
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 992ac1dbb3e01c250800000000000000
-      internalID: 5963063031353877145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_75
-      rect:
-        serializedVersion: 2
-        x: 4948
-        y: 2999
-        width: 1038
-        height: 658
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6ab95f08feecc010800000000000000
-      internalID: 1210605149032659563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_76
-      rect:
-        serializedVersion: 2
-        x: 5957
-        y: 2999
-        width: 1039
-        height: 652
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed755e6b97d7d43c0800000000000000
-      internalID: -4373701701393885218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_77
-      rect:
-        serializedVersion: 2
-        x: 6966
-        y: 2999
-        width: 1060
-        height: 654
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ef8de75a33177170800000000000000
-      internalID: 8176024789818642402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_78
-      rect:
-        serializedVersion: 2
-        x: 7999
-        y: 2999
-        width: 1001
-        height: 659
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5ed1e2f94a40e1f0800000000000000
-      internalID: -1017731834317775266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_79
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1999
-        width: 1007
-        height: 653
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5eca42b41bef6ac40800000000000000
-      internalID: 5523382030439853285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_80
-      rect:
-        serializedVersion: 2
-        x: 999
-        y: 1999
-        width: 1002
-        height: 652
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6502f214b2cc2ed0800000000000000
-      internalID: -2437359219646528146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_81
-      rect:
-        serializedVersion: 2
-        x: 1999
-        y: 1999
-        width: 1002
-        height: 639
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aad997c0610a32150800000000000000
-      internalID: 5846692757816057258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_82
-      rect:
-        serializedVersion: 2
-        x: 2999
-        y: 1999
-        width: 1002
-        height: 646
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11fd0c5d696ba41a0800000000000000
-      internalID: -6824441526379028719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_83
-      rect:
-        serializedVersion: 2
-        x: 3999
-        y: 1999
-        width: 1002
-        height: 652
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 824b7cc39dff525c0800000000000000
-      internalID: -4240702165606747096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_84
-      rect:
-        serializedVersion: 2
-        x: 4999
-        y: 1999
-        width: 1002
-        height: 657
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04ea015472d983b40800000000000000
-      internalID: 5420254943528398400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_85
-      rect:
-        serializedVersion: 2
-        x: 5999
-        y: 2059
-        width: 22
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d6e2ee76c9adfef0800000000000000
-      internalID: -72715348970641707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_86
-      rect:
-        serializedVersion: 2
-        x: 6010
-        y: 1999
-        width: 991
-        height: 658
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 133e33eb52c374ee0800000000000000
-      internalID: -1276985836533718223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_87
-      rect:
-        serializedVersion: 2
-        x: 7006
-        y: 1999
-        width: 995
-        height: 664
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4d87857c7a713e00800000000000000
-      internalID: 1022733265356164428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_88
-      rect:
-        serializedVersion: 2
-        x: 8004
-        y: 1999
-        width: 996
-        height: 666
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 914a60b8be2d82c90800000000000000
-      internalID: -7194268495632751591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_89
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 999
-        width: 999
-        height: 671
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc5ef988ce59a5bc0800000000000000
-      internalID: -3793554892969220661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_90
-      rect:
-        serializedVersion: 2
-        x: 1001
-        y: 999
+        x: 8000
+        y: 1000
         width: 1000
-        height: 673
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 43c548addcdc9b0e0800000000000000
-      internalID: -2253543854504125388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_91
-      rect:
-        serializedVersion: 2
-        x: 1999
-        y: 999
-        width: 1002
-        height: 672
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bc374f789e36e0f0800000000000000
-      internalID: -1088113435272069968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_92
-      rect:
-        serializedVersion: 2
-        x: 2999
-        y: 999
-        width: 1002
-        height: 673
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 999d7fa593c138f70800000000000000
-      internalID: 9188218697430849945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_93
-      rect:
-        serializedVersion: 2
-        x: 4592
-        y: 1615
-        width: 64
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da98c504b7bebe5e0800000000000000
-      internalID: -1879149504903738963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_94
-      rect:
-        serializedVersion: 2
-        x: 5599
-        y: 1622
-        width: 55
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e551c88fa7c8677f0800000000000000
-      internalID: -615149839305665186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_95
-      rect:
-        serializedVersion: 2
-        x: 3999
-        y: 999
-        width: 1002
-        height: 619
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dbecb37df30c1750800000000000000
-      internalID: 6276896367750998997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_96
-      rect:
-        serializedVersion: 2
-        x: 4999
-        y: 999
-        width: 1002
-        height: 616
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82bd6c3664be5cca0800000000000000
-      internalID: -5997128641219732696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_97
-      rect:
-        serializedVersion: 2
-        x: 5999
-        y: 999
-        width: 1002
-        height: 607
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8223a5b299f6d9e0800000000000000
-      internalID: -1596814609348353398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_98
-      rect:
-        serializedVersion: 2
-        x: 6560
-        y: 1536
-        width: 89
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96ae4ece326954a40800000000000000
-      internalID: 5351848813242149481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_99
-      rect:
-        serializedVersion: 2
-        x: 7013
-        y: 999
-        width: 988
-        height: 618
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51ebaaebf692bf240800000000000000
-      internalID: 4826496985574587925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_100
-      rect:
-        serializedVersion: 2
-        x: 8009
-        y: 999
-        width: 991
-        height: 618
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa455d86165c95460800000000000000
-      internalID: 7231027698881352874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_101
-      rect:
-        serializedVersion: 2
-        x: 6999
-        y: 1318
-        width: 37
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3615327d87ed31420800000000000000
-      internalID: 2599666020509765987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fire_wall_high_102
-      rect:
-        serializedVersion: 2
-        x: 7999
-        y: 1323
-        width: 30
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdfc668c928d85e00800000000000000
-      internalID: 1033813788448968671
+      spriteID: 0d2673589b0a75645ba92375e6372c31
+      internalID: -2339662480315772100
       vertices: []
       indices: 
       edges: []
@@ -2675,7 +1993,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 281e0df5c18011e46b22993866b5c18f
     internalID: 0
     vertices: []
     indices: 
@@ -2688,9 +2006,6 @@ TextureImporter:
       fire_wall_high_0: 8560851021400228423
       fire_wall_high_1: 2504635632195142531
       fire_wall_high_10: 1259091488003310849
-      fire_wall_high_100: 7231027698881352874
-      fire_wall_high_101: 2599666020509765987
-      fire_wall_high_102: 1033813788448968671
       fire_wall_high_11: 7868848599349089728
       fire_wall_high_12: 7001741390164421347
       fire_wall_high_13: 4683645809052197837
@@ -2768,26 +2083,7 @@ TextureImporter:
       fire_wall_high_79: 5523382030439853285
       fire_wall_high_8: -733493466403258757
       fire_wall_high_80: -2437359219646528146
-      fire_wall_high_81: 5846692757816057258
-      fire_wall_high_82: -6824441526379028719
-      fire_wall_high_83: -4240702165606747096
-      fire_wall_high_84: 5420254943528398400
-      fire_wall_high_85: -72715348970641707
-      fire_wall_high_86: -1276985836533718223
-      fire_wall_high_87: 1022733265356164428
-      fire_wall_high_88: -7194268495632751591
-      fire_wall_high_89: -3793554892969220661
       fire_wall_high_9: 8704117410265652026
-      fire_wall_high_90: -2253543854504125388
-      fire_wall_high_91: -1088113435272069968
-      fire_wall_high_92: 9188218697430849945
-      fire_wall_high_93: -1879149504903738963
-      fire_wall_high_94: -615149839305665186
-      fire_wall_high_95: 6276896367750998997
-      fire_wall_high_96: -5997128641219732696
-      fire_wall_high_97: -1596814609348353398
-      fire_wall_high_98: 5351848813242149481
-      fire_wall_high_99: 4826496985574587925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
