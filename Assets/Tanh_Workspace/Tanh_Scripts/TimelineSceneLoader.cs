@@ -5,7 +5,7 @@ public class TimelineSceneLoader : MonoBehaviour
 {
     [Header("Cấu hình Chuyển Màn Chơi")]
     [Tooltip("Nhập chính xác tên Scene tiếp theo bạn muốn chuyển tới")]
-    [SerializeField] private string sceneToLoad;
+    [SerializeField] private string sceneToLoad = "LeveL_2";
 
     // HÀM CHUẨN: Không tham số, sẽ xuất hiện rực rỡ trên bảng chọn của Ghim Signal
     public void LoadNextScene()

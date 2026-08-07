@@ -65,6 +65,22 @@ public class Enemy_Reaper : Enemy, ICounterable
         stateMachine.ChangeState(stunnedState);
     }
 
+    public override void TryEnterBattleState(Transform player)
+    {
+        // Nếu Reaper đang cast spell thì khi ăn đòn:
+        // - vẫn mất máu
+        // - không bị chuyển sang Battle State
+        // - spell tiếp tục chạy
+        if (stateMachine.currentState == reaperSpellCastState)
+            return;
+
+        // Nếu đang teleport cũng không cho đòn đánh phá state
+        if (stateMachine.currentState == reaperTeleportState)
+            return;
+
+        base.TryEnterBattleState(player);
+    }
+
     public override void SpecialAttack()
     {
         StartCoroutine(CastSpellCo());

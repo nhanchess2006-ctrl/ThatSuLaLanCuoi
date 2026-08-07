@@ -75,11 +75,18 @@ public class AudioManager : MonoBehaviour
     private IEnumerator SwitchMusicCo(string musicGroup)
     {
         AudioClipData data = audioDB.Get(musicGroup);
+
+        if (data == null || data.clips == null || data.clips.Count == 0)
+        {
+            Debug.LogWarning("No audio found for group: " + musicGroup);
+            yield break;
+        }
+
         AudioClip nextMusic = data.GetRandomClip();
 
-        if (data == null || data.clips.Count == 0)
+        if (nextMusic == null)
         {
-            Debug.Log("No audio found for group" + musicGroup);
+            Debug.LogWarning("Audio clip is null for group: " + musicGroup);
             yield break;
         }
 
@@ -92,14 +99,13 @@ public class AudioManager : MonoBehaviour
         if (bgmSource.isPlaying)
             yield return FadeVolumeCo(bgmSource, 0, 1f);
 
-
         lastMusicPlayed = nextMusic;
+
         bgmSource.clip = nextMusic;
         bgmSource.volume = 0;
         bgmSource.Play();
 
-        StartCoroutine(FadeVolumeCo(bgmSource, data.maxVolume, 1f));
-
+        yield return FadeVolumeCo(bgmSource, data.maxVolume, 1f);
     }
 
     private IEnumerator FadeVolumeCo(AudioSource source, float targetVolume, float duration)

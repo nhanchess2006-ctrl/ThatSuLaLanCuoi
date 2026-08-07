@@ -910,6 +910,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2630082032345687563, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
+      propertyPath: bgmShouldPlay
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3468218557498022801, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cd8fc89500a9284d989fe4b99dfb819, type: 3}
+    - target: {fileID: 3468218557498022801, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cd8fc89500a9284d989fe4b99dfb819, type: 3}
     - target: {fileID: 3468218557498022801, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
       propertyPath: OutputAudioMixerGroup
       value: 
@@ -958,6 +970,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8195971852875725998, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cd8fc89500a9284d989fe4b99dfb819, type: 3}
+    - target: {fileID: 8195971852875725998, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cd8fc89500a9284d989fe4b99dfb819, type: 3}
     - target: {fileID: 8195971852875725998, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
       propertyPath: OutputAudioMixerGroup
       value: 
