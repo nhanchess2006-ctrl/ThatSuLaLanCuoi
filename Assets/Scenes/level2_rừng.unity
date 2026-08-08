@@ -1719,6 +1719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ___ AUDIO MANAGER ___
       objectReference: {fileID: 0}
+    - target: {fileID: 4114007981348317906, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6527338104142793159, guid: fbc5bc63710411a4892bbd4bfc41eb5e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -76664,6 +76668,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 666987680486902828, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 13.599998
+      objectReference: {fileID: 0}
     - target: {fileID: 717600040759736810, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -76724,6 +76732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1594273138616323769, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1843928711653949233, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -76751,6 +76763,18 @@ PrefabInstance:
     - target: {fileID: 2112041422439505830, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847421823225977972, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 627618910}
+    - target: {fileID: 2847421823225977972, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847421823225977972, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
+      propertyPath: m_VertexColorAlwaysGammaSpace
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2974378106308416445, guid: aab13e6eb9b66a546959d86cd13c7dfc, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -77746,6 +77770,10 @@ PrefabInstance:
     - target: {fileID: 8509568573491501960, guid: 0759c46cd8cace1419a5420534ebcaf5, type: 3}
       propertyPath: m_Name
       value: ___ LEVEL MANAGER ___
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509568573491501960, guid: 0759c46cd8cace1419a5420534ebcaf5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
