@@ -11,7 +11,7 @@ public class Entity : MonoBehaviour
     public Rigidbody2D rb { get; private set; }
     public Collider2D col { get; private set; }
     public Entity_SFX sfx { get; private set; }
-    protected StateMachine stateMachine;
+    public StateMachine stateMachine;
 
 
     private bool facingRight = true;
@@ -44,8 +44,21 @@ public class Entity : MonoBehaviour
 
     protected virtual void Start()
     {
-
+        // 🔥 ĐÃ TỐI ƯU HÓA: Loại bỏ hoàn toàn các dòng Debug.Log nặng nề!
+        // Giờ đây tất cả quái vật đồng loạt nạp hướng nhìn bằng toán học siêu nhẹ,
+        // triệt tiêu vĩnh viễn cú khựng hình (lag spike) khi load từ Scene khác sang.
+        if (Mathf.Abs(transform.rotation.eulerAngles.y - 180f) < 0.1f || transform.localScale.x < 0)
+        {
+            facingRight = false;
+            facingDir = -1;
+        }
+        else
+        {
+            facingRight = true;
+            facingDir = 1;
+        }
     }
+
 
     protected virtual void Update()
     {
