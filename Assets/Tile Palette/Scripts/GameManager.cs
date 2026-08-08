@@ -27,6 +27,12 @@ public class GameManager : MonoBehaviour, ISaveable
 
     public void ContinuePlay()
     {
+        if (string.IsNullOrEmpty(lastScenePlayed))
+        {
+            ChangeScene("Tanh_Level1", RespawnType.NonSpecific);
+            return;
+        }
+
         ChangeScene(lastScenePlayed, RespawnType.NonSpecific);
     }
 
